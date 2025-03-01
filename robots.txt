@@ -1,0 +1,3872 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>ATMIYA University - Best University in Gujarat | Best University in Rajkot</title>
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+   <!-- font-awesome -->
+    <link href="css/font-awesome.css" rel="stylesheet">
+    <!-- common-styles -->
+    <link href="css/styles.css" rel="stylesheet">
+    <link href="css/slick.css" rel="stylesheet" />
+    <link href="css/animate.css" rel="stylesheet" />
+    <!-- Fevicon -->
+    <link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+          <script src="js/html5shiv.min.js"></script>
+          <script src="js/respond.min.js"></script>
+        <![endif]-->
+</head>
+<body>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="_token" content="FPnG1Z34AbU8Zwczi6FTzfWPGnWLRgLQCHf2sWe8">
+
+    <title>Atmiya University - ATMIYA University </title>
+<meta name="description" content="Best University in Gujarat | Best University in Rajkot">
+<meta name="keywords" content="Keyword">
+
+    <!-- face book stuff -->
+    <meta property="og:title" content="Atmiya University" />
+<meta property="og:url" content="https://atmiyauni.ac.in" />
+<meta property="og:image" content="https://atmiyauni.ac.in/frontTheme/images/aau-fb-logo.png" />
+
+
+    <!-- twitter stuff -->
+    <meta name="twitter:title" content="Atmiya University" />
+
+	<link rel="shortcut icon" type="image/x-icon" href="https://atmiyauni.ac.in/upload/frontSetting/logo.png">
+
+<link href="https://atmiyauni.ac.in/frontTheme/css/bootstrap.min.css" rel="stylesheet">
+<link href="https://atmiyauni.ac.in/frontTheme/css/font-awesome.min.css" rel="stylesheet">
+
+<link href="https://atmiyauni.ac.in/css/bootstrap.min.css" rel="stylesheet">
+<link href="https://atmiyauni.ac.in/css/font-awesome.min.css" rel="stylesheet">
+
+<link href="https://atmiyauni.ac.in/frontTheme/css/slick.css" rel="stylesheet">
+<link href="https://atmiyauni.ac.in/frontTheme/css/slick-theme.css" rel="stylesheet">
+<link href="https://atmiyauni.ac.in/frontTheme/css/style.css" rel="stylesheet">
+<link href="https://atmiyauni.ac.in/frontTheme/css/styles.css" rel="stylesheet">
+<link href="https://atmiyauni.ac.in/frontTheme/css/proud.css" rel="stylesheet">
+<link href="https://atmiyauni.ac.in/frontTheme/css/initi.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+<link rel="stylesheet"  href="https://atmiyauni.ac.in/frontTheme/css/owl.carousel.css">
+<link rel="stylesheet"  href="https://atmiyauni.ac.in/frontTheme/css/owl.theme.default.css">
+<style>
+
+#atmiya_logo{
+		  width: 110px;
+			margin-top: 10px;
+			margin-left: -3px;
+	}
+@media  only screen and (max-width: 1820px) and (min-width: 937px) {
+	 .navbar-collapse{
+		font-size: 1px;
+	}
+	.headertopmenu{
+		    font-size: 1px;
+			margin-left: 29px;
+	}
+	#atmiya_logo{
+		  width: 110px;
+			margin-top: 10px;
+			margin-left: 12px;
+	}
+}
+@media  only screen and (max-width: 1040px) and (min-width: 850px) {
+	.headertopmenu{
+		        margin-left: -50px;
+	}
+}
+
+@media  only screen and (max-width: 1560px) and (min-width: 850px) {
+	#atmiya_logo{
+		       width: 110px;
+			margin-top: 5px;
+			margin-left: -5px;
+			
+	}
+
+
+}
+</style>	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css" integrity="sha512-yHknP1/AwR+yx26cB1y0cjvQUMvEa2PFzt1c9LlS4pRQ5NOTZFWbhBig+X9G9eYW/8m0/4OXNx8pxJ6z57x0dw==" crossorigin="anonymous" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.css" integrity="sha512-wR4oNhLBHf7smjy0K4oqzdWumd+r5/+6QO/vDda76MW5iug4PT7v86FoEkySIJft3XA0Ae6axhIvHrqwm793Nw==" crossorigin="anonymous" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.min.css" integrity="sha512-17EgCFERpgZKcm0j0fEq1YCJuyAWdz9KUtv1EjVuaOz8pDnh/0nZxmU6BBXwaaxqoi9PQXnRWqlcDB027hgv9A==" crossorigin="anonymous" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.css" integrity="sha512-6lLUdeQ5uheMFbWm3CP271l14RsX1xtx+J5x2yeIDkkiBpeVTNhTqijME7GgRKKi6hCqovwCoBTlRBEC20M8Mg==" crossorigin="anonymous" />
+
+<link rel="stylesheet" href="css/owl.carousel.min.css">
+<link rel="stylesheet" href="https://owlcarousel2.github.io/OwlCarousel2/assets/owlcarousel/assets/owl.theme.default.min.css">
+
+<style type="text/css">
+.item img{ width:100%;}
+.owl-nav {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 9999;
+    width: 100%;
+}
+.owl-nav button {
+    background: #fff !important;
+    width: 50px;
+    height: 50px;
+    display: block
+}
+.owl-nav button.owl-next {
+    float: right;
+}
+.owl-nav button.owl-prev {
+    float: left;
+}
+.owl-dots {
+    position: absolute;
+    bottom: 5%;
+    left: 0;
+    right: 0;
+}
+
+
+
+
+
+.scroller {
+  width: auto;
+  height: 502px;
+  overflow-y: scroll;
+  scrollbar-width: thin;
+}
+
+.about-right-img img{
+width:472px;
+height:471px;
+}
+.event-vidoes img{
+margin-bottom:8px;
+height:161px !important;
+width:235px !important;
+}
+.event-img1 img{
+height:156px !important;
+}
+.pomobox ul li a:hover{
+color:#163669 !important;
+}
+.event-vidoes a p{
+padding-left: 0px !important;
+}
+.event-vidoes a iframe{
+height: 161px !important;
+width: 235px !important;
+}
+.aau-list ul li a:hover{
+color:#163669 !important;}.little-about-us-description{text-indent: 50px;text-align: justify;}.latest-news-main{height: 558px !important;}.latest-news-main marquee{
+height: 405px !important;
+}
+.latest-news-main ul li{
+padding: 0px 0px 0px 0px !important;
+}
+.latest-news-main ul li a{
+width: 100% !important;
+}
+/* .slider-bg{
+margin-top: 136px
+}*/
+.slider-bottom{
+padding-top: 2px;
+padding-bottom: 2px;
+}
+.marquee p{
+margin: 0px !important;
+}
+.modal-dialog{
+width: 65%;
+}
+.banner-img{
+border: 2px solid black;
+}
+@media  only screen and (max-width: 600px) {
+.modal-dialog{
+width: 95% !important;
+}
+}
+.col-3{
+font-size:25px;
+}
+/* The flip box container - set the width and height to whatever you want. We have added the border property to demonstrate that the flip itself goes out of the box on hover (remove perspective if you don't want the 3D effect */
+.flip-box {
+  background-color: transparent;
+  height: 238px;
+  perspective: 1000px; /* Remove this if you don't want the 3D effect */
+}
+/* This container is needed to position the front and back side */
+.flip-box-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.8s;
+  transform-style: preserve-3d;
+}
+/* Do an horizontal flip when you move the mouse over the flip box container */
+.flip-box:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+/* Position the front and back side */
+.flip-box-front, .flip-box-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  -webkit-backface-visibility: hidden; /* Safari */
+  backface-visibility: hidden;
+}
+
+/* Style the front side (fallback if image is missing) */
+.flip-box-front {
+  
+ 
+}
+
+/* Style the back side */
+.flip-box-back {
+ 
+  color: white;
+  transform: rotateY(180deg);
+}
+.v{
+	margin-left: -20%;
+    margin-bottom: 3%;
+}
+@media  only screen and (max-width: 1366px)
+{
+	.v{
+	margin-left: -14%;
+    margin-bottom: 103%;
+	bottom:59.5%;
+}
+}
+@media  only screen and (max-width: 1024px)
+{
+	.v{
+	margin-left: -14%;
+    margin-bottom: 103%;
+	bottom:59.5%;
+}
+}
+@media  only screen and (max-width:786px){
+.v{
+	margin-left: -14%;
+    margin-bottom: 103%;
+	bottom: -75px;
+}
+.atmiya360degree {
+    left: -50px;
+    bottom: -15px;
+    background-size: 100%;
+    width: 56px;
+    height: 56px;
+}
+}
+
+@media  only screen and (max-width:639px){
+.atmiya360degree {
+    left: -50px;
+    bottom: -15px;
+    background-size: 100%;
+    width: 56px;
+    height: 56px;
+}
+}
+@media  only screen and (max-width:479px){
+.atmiya360degree {
+    left: -50px;
+    bottom: -15px;
+    background-size: 100%;
+    width: 56px;
+    height: 56px;
+}
+}
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a grey background color */
+.prev:hover, .next:hover {
+  background-color: #f1f1f1;
+  color: black;
+}
+
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+@keyframes  fade{
+  from{
+    opacity:0.4;
+  }
+  to{
+    opacity:1;
+  }
+}
+
+body{
+  background:#eeeee;
+}
+
+#slider{
+  margin:0 auto;
+  width:80%;
+  overflow:hidden;
+}
+
+.slides{
+  overflow:hidden;
+  
+  animation-duration:5s;
+  display:none;
+}
+
+img{
+  width:100%;
+}
+
+
+.active{
+  background:black;
+}
+
+@media (max-width:567px){
+  #slider{
+    width:100%;
+
+  }
+}
+
+#heading{
+  display:block;
+  text-align:center;
+  font-size:2em;
+  margin:10px 0px;
+
+}
+.pagewrap .slick-slide {
+	height: auto;
+}
+
+#feedback {
+	height: 0px;
+	width: 85px;
+	position: fixed;
+	right: 0;
+	top: 65%;
+	z-index: 1000;
+	transform: rotate(-90deg);
+	-webkit-transform: rotate(-90deg);
+	-moz-transform: rotate(-90deg);
+	-o-transform: rotate(-90deg);
+	filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+}
+#feedback button {
+    display: block;
+    background:#141353;
+    height: 52px;
+    padding-top: 0px;
+    width: 200px;
+    border-radius:14px;
+    text-align: center;
+    color: #fff;
+    font-family: "segoe UI";
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+}
+#feedback a:hover {
+    background:#00579f;
+}
+
+
+/* Button used to open the contact form - fixed at the bottom of the page */
+.open-button {
+  background-color: #555;
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  opacity: 0.8;
+  position: fixed;
+  bottom: 23px;
+  right: 28px;
+  width: 280px;
+}
+
+/* The popup form - hidden by default */
+.form-popup {
+  display: none;
+  position: fixed;
+  bottom: 0;
+  right: 15px;
+  border: 3px solid #c9a65c;
+  z-index: 9;
+}
+
+/* Add styles to the form container */
+.form-container {
+  max-width: 350px;
+  padding: 8px;
+  background-color: #c9a65c;
+}
+
+/* Full-width input fields */
+.form-container input[type=text], input[type=email], .form-container input[type=number] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  border: none;
+  background: #f1f1f1;
+}
+
+/* When the inputs get focus, do something */
+.form-container input[type=text]:focus,input[type=email], .form-container input[type=number]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+/* Set a style for the submit/login button */
+.form-container .btn {
+  background-color: #141353;
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  width: 50%;
+  margin-bottom:10px;
+  opacity: 0.8;
+  margin-left: 25%
+}
+
+/* Add a red background color to the cancel button */
+.form-container .cancel {
+    background-color: #f81c53;
+}
+
+/* Add some hover effects to buttons */
+.form-container .btn:hover, .open-button:hover {
+  opacity: 1;
+}
+
+.error {
+        color: red;
+}
+</style>
+</head>
+<body>
+<header>
+	<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>Atmiya University</title>
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <!-- font-awesome -->
+    <link href="css/font-awesome.css" rel="stylesheet">
+	<link href="css/font-awesome.min.css" rel="stylesheet">
+    <!-- common-styles -->
+    <link href="css/styles.css" rel="stylesheet">
+    <link href="css/slick.css" rel="stylesheet" />
+	<link href="css/styles.css" rel="stylesheet" />
+    <!-- Fevicon -->
+    <link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
+
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+          <script src="js/html5shiv.min.js"></script>
+          <script src="js/respond.min.js"></script>
+        <![endif]-->
+</head>
+<body>
+
+<div class="pagewrap">
+        <div class="sectionheader">
+            <div class="headertop">
+                <div class="container">
+					
+                    <div class="headersocial">
+						<div class="topbar-search-lft">
+						<form method="GET" action="https://atmiyauni.ac.in/search" accept-charset="UTF-8">
+						  <input type="text" name="search" value="" placeholder="Search Here...">
+						  <button type="submit"><i class="icon-search" aria-hidden="true"></i></button>
+						 </form>
+					 </div>
+                        <span>Follow Us On :</span>
+                        <div class="socialwrap">
+                            <a href="https://www.facebook.com/atmiyauniversity" target="_blank"><i class="fa fa-facebook"></i></a>
+                            <a href="https://instagram.com/atmiya_university?igshid=MzRlODBiNWFlZA==" target="_blank"><i class="fa fa-instagram"></i></a>
+                            <a href="https://www.linkedin.com/company/atmiya-university/?originalSubdomain=in" target="_blank"><i class="fa fa-linkedin"></i></a>
+                            <a href="https://twitter.com/AtmiyaUni" target="_blank"><i class="fa fa-twitter"></i></a>
+                            <a href="#" target="_blank"><i class="fa fa-whatsapp"></i></a>
+                        </div>
+                    </div>
+                    <div class="headertopmenu">
+                        <ul>
+ 
+                					                     
+				
+                                                      <li>
+                                      
+                    <a href="/student_corner_new">Student Corner</a>
+                                                             </li>
+                                                      <li>
+                                      
+                    <a href="/media-coverage">Media Coverages</a>
+                                                             </li>
+                                                      <li>
+                                      
+                    <a href="/apply-career">Career</a>
+                                                             </li>
+                                                      <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
+                                      <li>
+                                      
+                    <a href="https://atmiyauni.ac.in/alumni">Alumni</a>
+                                                             </li>
+                                                      <li>
+                                      
+                    <a href="https://library.atmiyauni.ac.in/">Library &amp; Learning Center</a>
+                                                             </li>
+                                                      <li>
+                                      
+                    <a href="https://cms.atmiya.edu.in">CMS Login</a>
+                                                             </li>
+                                                                           </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="headerbottom">
+                <div class="sitelogo" style="z-index:5"><a href="https://atmiyauni.ac.in" title="Atmiya University"><img id="atmiya_logo" src="https://atmiyauni.ac.in/images/logo.png" alt="Atmiya University" /></a></div>
+                <div class="headermenu">
+                    <div class="menufixed">
+
+                        <div class="navbar-header">
+                            <button data-toggle="collapse-side" data-target=".side-collapse" type="button" class="navbar-toggle pull-left fixedbtn"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
+							</button>
+                        </div>
+						
+                        <div class="navbar-inverse side-collapse in">
+                            <nav role="navigation" class="navbar-collapse">
+                                <ul class="nav navbar-nav">
+								   <!--<li class="nav-item dropdown"> <a class="nav-link" href="https://atmiyauni.ac.in">Home</a></li>-->
+								   <li class="nav-item dropdown"> <a class="nav-link" href="https://atmiyauni.ac.in">Home</a></li>
+                                    					                     
+                			                              
+							
+                                              <li class="dropdown" id="navbarDropdown1">
+							<a class="nav-link dropdown" href="JavaScript:void(0);" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About Us</a>
+                       
+                          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                                                       
+                                  <li class="dropdown-submenu pull-left">
+											
+																					
+																																			<li class="">
+													<a class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauni.ac.in/about-university">About University</a>
+												</li>
+																																												                                    </li>
+                            
+								                                        
+                                  <li class="dropdown-submenu pull-left">
+											
+																					
+																																			<li class="">
+													<a class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauni.ac.in/vision-mission-and-core-values">Vision, Mission and Core values</a>
+												</li>
+																																												                                    </li>
+                            
+								                                        
+                                  <li class="dropdown-submenu pull-left">
+											
+																					
+																								<a class="dropdown-item" style="text-transform: uppercase;" target="" href="JavaScript:void(0)">Authorities<i class="fa fa-caret-right"></i></a>
+																																		<ul class="dropdown-menu">
+																								<li class="dropdown-submenu">
+											
+																										
+																									<li class="">
+													<a class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauni.ac.in/president">President</a>
+												</li>
+											
+																																						</li>
+																								<li class="dropdown-submenu">
+											
+																										
+																									<li class="">
+													<a class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauni.ac.in/pro-chancellor">Pro chancellor</a>
+												</li>
+											
+																																						</li>
+																								<li class="dropdown-submenu">
+											
+																										
+																									<li class="">
+													<a class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauni.ac.in/pro-chancellor-cvms">Pro Chancellor  -CVMS</a>
+												</li>
+											
+																																						</li>
+																								<li class="dropdown-submenu">
+											
+																										
+																									<li class="">
+													<a class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauni.ac.in/vice-chancellor">Vice chancellor</a>
+												</li>
+											
+																																						</li>
+																								<li class="dropdown-submenu">
+											
+																										
+																										<a class="dropdown-item" style="text-transform: uppercase;" target="" href="JavaScript:void(0)">Registrar<i class="fa fa-caret-right"></i></a>
+											
+																																								<ul class="dropdown-menu">
+																															<li class="">
+														
+																																	<li class="">
+																	<a charset="  " class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauni.ac.in/registrar-239">Registrar</a>
+																	</li>
+																																</li>
+																															<li class="">
+														
+																																	<li class="">
+																	<a charset="  " class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauni.ac.in/assistant-registrar">Assistant Registrar</a>
+																	</li>
+																																</li>
+																													</ul>
+																									</li>
+																								<li class="dropdown-submenu">
+											
+																										
+																										<a class="dropdown-item" style="text-transform: uppercase;" target="" href="JavaScript:void(0)">Controller of Examination<i class="fa fa-caret-right"></i></a>
+											
+																																								<ul class="dropdown-menu">
+																															<li class="">
+														
+																																	<li class="">
+																	<a charset="  " class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauni.ac.in/controller-of-examinations">Controller of Examinations</a>
+																	</li>
+																																</li>
+																															<li class="">
+														
+																																	<li class="">
+																	<a charset="  " class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauni.ac.in/deputy-controller-of-examinations">Deputy Controller of Examinations</a>
+																	</li>
+																																</li>
+																													</ul>
+																									</li>
+																								<li class="dropdown-submenu">
+											
+																										
+																									<li class="">
+													<a class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauni.ac.in/director-research-and-innovation">Director Research And Innovation</a>
+												</li>
+											
+																																						</li>
+																								<li class="dropdown-submenu">
+											
+																										
+																									<li class="">
+													<a class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauni.ac.in/director-centre-for-total-quality-management">Director Centre for Total Quality Management</a>
+												</li>
+											
+																																						</li>
+																								<li class="dropdown-submenu">
+											
+																										
+																										<a class="dropdown-item" style="text-transform: uppercase;" target="" href="JavaScript:void(0)">Statutory Bodies<i class="fa fa-caret-right"></i></a>
+											
+																																								<ul class="dropdown-menu">
+																															<li class="">
+														
+																																	<li class="">
+																	<a charset="  " class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauni.ac.in/governing-body">Governing Body</a>
+																	</li>
+																																</li>
+																															<li class="">
+														
+																																	<li class="">
+																	<a charset="  " class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauni.ac.in/board-of-management">Board of Management</a>
+																	</li>
+																																</li>
+																															<li class="">
+														
+																																	<li class="">
+																	<a charset="  " class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauni.ac.in/finance-committee">Finance Committee</a>
+																	</li>
+																																</li>
+																															<li class="">
+														
+																																	<li class="">
+																	<a charset="  " class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauni.ac.in/academic-council">Academic Council</a>
+																	</li>
+																																</li>
+																															<li class="">
+														
+																																	<li class="">
+																	<a charset="  " class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauni.ac.in/board-of-studies">Board of Studies</a>
+																	</li>
+																																</li>
+																													</ul>
+																									</li>
+																								<li class="dropdown-submenu">
+											
+																										
+																									<li class="">
+													<a class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauni.ac.in/organogram">Organogram</a>
+												</li>
+											
+																																						</li>
+																								</ul>
+																					                                    </li>
+                            
+								                        </ul>
+						
+                        </li>
+						
+                      					                     			                              
+							
+                                              <li class="dropdown" id="navbarDropdown1">
+							<a class="nav-link dropdown" href="JavaScript:void(0);" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Academics</a>
+                       
+                          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                                                       
+                                  <li class="dropdown-submenu pull-left">
+											
+																					
+																								<a class="dropdown-item" style="text-transform: uppercase;" target="" href="JavaScript:void(0)">Faculty of Science<i class="fa fa-caret-right"></i></a>
+																																		<ul class="dropdown-menu">
+																								<li class="dropdown-submenu">
+											
+																										
+																										<a class="dropdown-item" style="text-transform: uppercase;" target="" href="JavaScript:void(0)">U.G<i class="fa fa-caret-right"></i></a>
+											
+																																								<ul class="dropdown-menu">
+																															<li class="">
+														
+																																	<a class="dropdown-item" style="text-transform: uppercase;" target="" href="/facultylist/biotechnology/92">B.Sc Biotechnology</a>
+																																</li>
+																															<li class="">
+														
+																																	<a class="dropdown-item" style="text-transform: uppercase;" target="" href="/facultylist/microbiology/96">B.Sc Microbiology</a>
+																																</li>
+																															<li class="">
+														
+																																	<a class="dropdown-item" style="text-transform: uppercase;" target="" href="/facultylist/chemistry/93">B.Sc Chemistry</a>
+																																</li>
+																															<li class="">
+														
+																																	<a class="dropdown-item" style="text-transform: uppercase;" target="" href="/facultylist/industrial-chemistry/94">B.Sc Industrial Chemistry</a>
+																																</li>
+																															<li class="">
+														
+																																	<a class="dropdown-item" style="text-transform: uppercase;" target="" href="/facultylist/computer-science-information-technology/97">B.Sc (Information Technology)</a>
+																																</li>
+																															<li class="">
+														
+																																	<a class="dropdown-item" style="text-transform: uppercase;" target="" href="/facultylist/mathematics/95">B.Sc Mathematics</a>
+																																</li>
+																															<li class="">
+														
+																																	<a class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauni.ac.in/facultylist/computer-science-information-technology/97">BCA</a>
+																																</li>
+																															<li class="">
+														
+																																	<a class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauniversity.net/facultylist/physics/98">B.Sc Physics</a>
+																																</li>
+																															<li class="">
+														
+																																	<a class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauni.ac.in/facultylist/computer-science-information-technology/97">BCA (Industry Integrated Program)</a>
+																																</li>
+																													</ul>
+																									</li>
+																								<li class="dropdown-submenu">
+											
+																										
+																										<a class="dropdown-item" style="text-transform: uppercase;" target="" href="JavaScript:void(0)">P.G<i class="fa fa-caret-right"></i></a>
+											
+																																								<ul class="dropdown-menu">
+																															<li class="">
+														
+																																	<a class="dropdown-item" style="text-transform: uppercase;" target="" href="/facultylist/biotechnology-pg/268">M.Sc Biotechnology</a>
+																																</li>
+																															<li class="">
+														
+																																	<a class="dropdown-item" style="text-transform: uppercase;" target="" href="/facultylist/microbiology-pg/264">M.Sc Microbiology</a>
+																																</li>
+																															<li class="">
+														
+																																	<a class="dropdown-item" style="text-transform: uppercase;" target="" href="/facultylist/chemistryorganicanalytical-pg/267">M.Sc Chemistry</a>
+																																</li>
+																															<li class="">
+														
+																																	<a class="dropdown-item" style="text-transform: uppercase;" target="" href="/facultylist/industrial-chemistry-pg/266">M.Sc Industrial Chemistry</a>
+																																</li>
+																															<li class="">
+														
+																																	<a class="dropdown-item" style="text-transform: uppercase;" target="" href="/facultylist/information-technology-pg/263">M.Sc IT &amp; CA</a>
+																																</li>
+																															<li class="">
+														
+																																	<a class="dropdown-item" style="text-transform: uppercase;" target="" href="/facultylist/mathematics-pg/265">M.Sc Mathematics</a>
+																																</li>
+																															<li class="">
+														
+																																	<a class="dropdown-item" style="text-transform: uppercase;" target="" href="/facultylist/mca/241">MCA</a>
+																																</li>
+																													</ul>
+																									</li>
+																								<li class="dropdown-submenu">
+											
+																										
+																										<a class="dropdown-item" style="text-transform: uppercase;" target="" href="JavaScript:void(0)">P.G (Diploma)<i class="fa fa-caret-right"></i></a>
+											
+																																								<ul class="dropdown-menu">
+																															<li class="">
+														
+																																	<a class="dropdown-item" style="text-transform: uppercase;" target="" href="/facultylist/biotechnology/380">Medical Laboratory Technology</a>
+																																</li>
+																													</ul>
+																									</li>
+																								<li class="dropdown-submenu">
+											
+																										
+																										<a class="dropdown-item" style="text-transform: uppercase;" target="" href="JavaScript:void(0)">Ph.d<i class="fa fa-caret-right"></i></a>
+											
+																																								<ul class="dropdown-menu">
+																															<li class="">
+														
+																																	<li class="">
+																	<a charset="  " class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauni.ac.in/bio-technology">Bio Technology</a>
+																	</li>
+																																</li>
+																															<li class="">
+														
+																																	<li class="">
+																	<a charset="  " class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauni.ac.in/microbiology">Microbiology</a>
+																	</li>
+																																</li>
+																															<li class="">
+														
+																																	<li class="">
+																	<a charset="  " class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauni.ac.in/chemistry">Chemistry</a>
+																	</li>
+																																</li>
+																															<li class="">
+														
+																																	<li class="">
+																	<a charset="  " class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauni.ac.in/industrial-chemistry">Industrial Chemistry</a>
+																	</li>
+																																</li>
+																															<li class="">
+														
+																																	<li class="">
+																	<a charset="  " class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauni.ac.in/computer-science">Computer Science</a>
+																	</li>
+																																</li>
+																															<li class="">
+														
+																																	<li class="">
+																	<a charset="  " class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauni.ac.in/mathematics">Mathematics</a>
+																	</li>
+																																</li>
+																															<li class="">
+														
+																																	<li class="">
+																	<a charset="  " class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauni.ac.in/physics">Physics</a>
+																	</li>
+																																</li>
+																													</ul>
+																									</li>
+																								</ul>
+																					                                    </li>
+                            
+								                                        
+                                  <li class="dropdown-submenu pull-left">
+											
+																					
+																								<a class="dropdown-item" style="text-transform: uppercase;" target="" href="JavaScript:void(0)">Faculty of Business &amp; Commerce<i class="fa fa-caret-right"></i></a>
+																																		<ul class="dropdown-menu">
+																								<li class="dropdown-submenu">
+											
+																										
+																										<a class="dropdown-item" style="text-transform: uppercase;" target="" href="JavaScript:void(0)">U.G.<i class="fa fa-caret-right"></i></a>
+											
+																																								<ul class="dropdown-menu">
+																															<li class="">
+														
+																																	<a class="dropdown-item" style="text-transform: uppercase;" target="" href="/facultylist/bba/351">BBA</a>
+																																</li>
+																															<li class="">
+														
+																																	<a class="dropdown-item" style="text-transform: uppercase;" target="" href="/facultylist/bbahons/352">BBA (Entrepreneurship and family business)</a>
+																																</li>
+																															<li class="">
+														
+																																	<a class="dropdown-item" style="text-transform: uppercase;" target="" href="/facultylist/bcom/353">B.COM</a>
+																																</li>
+																															<li class="">
+														
+																																	<a class="dropdown-item" style="text-transform: uppercase;" target="" href="/facultylist/bcom-professional-accounting/415">B.COM (PROFESSIONAL ACCOUNTING)</a>
+																																</li>
+																													</ul>
+																									</li>
+																								<li class="dropdown-submenu">
+											
+																										
+																										<a class="dropdown-item" style="text-transform: uppercase;" target="" href="JavaScript:void(0)">P.G<i class="fa fa-caret-right"></i></a>
+											
+																																								<ul class="dropdown-menu">
+																															<li class="">
+														
+																																	<a class="dropdown-item" style="text-transform: uppercase;" target="" href="/facultylist/mba/335">MBA</a>
+																																</li>
+																															<li class="">
+														
+																																	<a class="dropdown-item" style="text-transform: uppercase;" target="" href="/facultylist/mcom/416">M.COM</a>
+																																</li>
+																													</ul>
+																									</li>
+																								<li class="dropdown-submenu">
+											
+																										
+																										<a class="dropdown-item" style="text-transform: uppercase;" target="" href="JavaScript:void(0)">Integrated<i class="fa fa-caret-right"></i></a>
+											
+																																								<ul class="dropdown-menu">
+																															<li class="">
+														
+																																	<a class="dropdown-item" style="text-transform: uppercase;" target="" href="/facultylist/imba4-year-pg/334">integrated MBA</a>
+																																</li>
+																													</ul>
+																									</li>
+																								<li class="dropdown-submenu">
+											
+																										
+																										<a class="dropdown-item" style="text-transform: uppercase;" target="" href="JavaScript:void(0)">Ph.D<i class="fa fa-caret-right"></i></a>
+											
+																																								<ul class="dropdown-menu">
+																															<li class="">
+														
+																																	<li class="">
+																	<a charset="  " class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauni.ac.in/commerce">Commerce</a>
+																	</li>
+																																</li>
+																															<li class="">
+														
+																																	<li class="">
+																	<a charset="  " class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauni.ac.in/management">Management</a>
+																	</li>
+																																</li>
+																													</ul>
+																									</li>
+																								</ul>
+																					                                    </li>
+                            
+								                                        
+                                  <li class="dropdown-submenu pull-left">
+											
+																					
+																								<a class="dropdown-item" style="text-transform: uppercase;" target="" href="JavaScript:void(0)">Faculty of Engineering &amp; Technology<i class="fa fa-caret-right"></i></a>
+																																		<ul class="dropdown-menu">
+																								<li class="dropdown-submenu">
+											
+																										
+																										<a class="dropdown-item" style="text-transform: uppercase;" target="" href="JavaScript:void(0)">U.G<i class="fa fa-caret-right"></i></a>
+											
+																																								<ul class="dropdown-menu">
+																															<li class="">
+														
+																																	<a class="dropdown-item" style="text-transform: uppercase;" target="" href="/facultylist/civil-engg/84">B.Tech Civil Engineering</a>
+																																</li>
+																															<li class="">
+														
+																																	<a class="dropdown-item" style="text-transform: uppercase;" target="" href="/facultylist/computer-engg/79">B.Tech Computer Engineering</a>
+																																</li>
+																															<li class="">
+														
+																																	<a class="dropdown-item" style="text-transform: uppercase;" target="" href="/facultylist/electircal-engg/86">B.Tech Electrical Engineering</a>
+																																</li>
+																															<li class="">
+														
+																																	<a class="dropdown-item" style="text-transform: uppercase;" target="" href="/facultylist/computer-science/369">B.Tech Computer Science and Engineering</a>
+																																</li>
+																															<li class="">
+														
+																																	<a class="dropdown-item" style="text-transform: uppercase;" target="" href="/facultylist/mechnical-engg/87">B.Tech Mechanical Engineering</a>
+																																</li>
+																															<li class="">
+														
+																																	<a class="dropdown-item" style="text-transform: uppercase;" target="" href="/facultylist/information-technology-engg/80">B.Tech Information  Technology</a>
+																																</li>
+																													</ul>
+																									</li>
+																								<li class="dropdown-submenu">
+											
+																										
+																										<a class="dropdown-item" style="text-transform: uppercase;" target="" href="JavaScript:void(0)">P.G<i class="fa fa-caret-right"></i></a>
+											
+																																								<ul class="dropdown-menu">
+																															<li class="">
+														
+																																	<a class="dropdown-item" style="text-transform: uppercase;" target="" href="/facultylist/civil-engineering-transportation-engineering/225">M.Tech Civil Engineering (Transportation Engineering)</a>
+																																</li>
+																															<li class="">
+														
+																																	<a class="dropdown-item" style="text-transform: uppercase;" target="" href="/facultylist/computer-enggpg/81">M.Tech Computer Engineering (Software Engineering)</a>
+																																</li>
+																															<li class="">
+														
+																																	<a class="dropdown-item" style="text-transform: uppercase;" target="" href="/facultylist/electrical-engineering-power-electronics-and-electrical-drives/233">M.Tech Electrical Engineering (Power Electronics and Electrical Drives)</a>
+																																</li>
+																															<li class="">
+														
+																																	<a class="dropdown-item" style="text-transform: uppercase;" target="" href="/facultylist/mechanical-engineering-production/231">M.Tech Mechanical Engineering (Production)</a>
+																																</li>
+																													</ul>
+																									</li>
+																								<li class="dropdown-submenu">
+											
+																										
+																										<a class="dropdown-item" style="text-transform: uppercase;" target="" href="JavaScript:void(0)">ph.d<i class="fa fa-caret-right"></i></a>
+											
+																																								<ul class="dropdown-menu">
+																															<li class="">
+														
+																																	<li class="">
+																	<a charset="  " class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauni.ac.in/civil-engineering">civil engineering</a>
+																	</li>
+																																</li>
+																															<li class="">
+														
+																																	<li class="">
+																	<a charset="  " class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauni.ac.in/computer-engineering">computer engineering</a>
+																	</li>
+																																</li>
+																															<li class="">
+														
+																																	<li class="">
+																	<a charset="  " class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauni.ac.in/electrical-engineering">electrical engineering</a>
+																	</li>
+																																</li>
+																															<li class="">
+														
+																																	<li class="">
+																	<a charset="  " class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauni.ac.in/electronics-and-communication-engineering">electronics  and communication engineering</a>
+																	</li>
+																																</li>
+																															<li class="">
+														
+																																	<li class="">
+																	<a charset="  " class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauni.ac.in/mechanical-engineering">Mechanical engineering</a>
+																	</li>
+																																</li>
+																													</ul>
+																									</li>
+																								</ul>
+																					                                    </li>
+                            
+								                                        
+                                  <li class="dropdown-submenu pull-left">
+											
+																					
+																								<a class="dropdown-item" style="text-transform: uppercase;" target="" href="JavaScript:void(0)">FACULTY OF HEALTH SCIENCES<i class="fa fa-caret-right"></i></a>
+																																		<ul class="dropdown-menu">
+																								<li class="dropdown-submenu">
+											
+																										
+																										<a class="dropdown-item" style="text-transform: uppercase;" target="" href="JavaScript:void(0)">U.G<i class="fa fa-caret-right"></i></a>
+											
+																																								<ul class="dropdown-menu">
+																															<li class="">
+														
+																																	<a class="dropdown-item" style="text-transform: uppercase;" target="" href="/facultylist/bpham/161">B.Pharm</a>
+																																</li>
+																													</ul>
+																									</li>
+																								<li class="dropdown-submenu">
+											
+																										
+																										<a class="dropdown-item" style="text-transform: uppercase;" target="" href="JavaScript:void(0)">P.G<i class="fa fa-caret-right"></i></a>
+											
+																																								<ul class="dropdown-menu">
+																															<li class="">
+														
+																																	<a class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauniversity.net/facultylist/mpham/162">M.Pharm (Pharmaceutics)</a>
+																																</li>
+																													</ul>
+																									</li>
+																								<li class="dropdown-submenu">
+											
+																										
+																										<a class="dropdown-item" style="text-transform: uppercase;" target="" href="JavaScript:void(0)">PH.d<i class="fa fa-caret-right"></i></a>
+											
+																																								<ul class="dropdown-menu">
+																															<li class="">
+														
+																																	<li class="">
+																	<a charset="  " class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauni.ac.in/pharmacy">Pharmacy</a>
+																	</li>
+																																</li>
+																													</ul>
+																									</li>
+																								</ul>
+																					                                    </li>
+                            
+								                                        
+                                  <li class="dropdown-submenu pull-left">
+											
+																					
+																								<a class="dropdown-item" style="text-transform: uppercase;" target="" href="JavaScript:void(0)">Faculty Of Humanities &amp; Social Sciences<i class="fa fa-caret-right"></i></a>
+																																		<ul class="dropdown-menu">
+																								<li class="dropdown-submenu">
+											
+																										
+																										<a class="dropdown-item" style="text-transform: uppercase;" target="" href="JavaScript:void(0)">U.G<i class="fa fa-caret-right"></i></a>
+											
+																																								<ul class="dropdown-menu">
+																															<li class="">
+														
+																																	<a class="dropdown-item" style="text-transform: uppercase;" target="" href="/facultylist/english/91">B.A (English)</a>
+																																</li>
+																													</ul>
+																									</li>
+																								<li class="dropdown-submenu">
+											
+																										
+																										<a class="dropdown-item" style="text-transform: uppercase;" target="" href="JavaScript:void(0)">P. G<i class="fa fa-caret-right"></i></a>
+											
+																																								<ul class="dropdown-menu">
+																															<li class="">
+														
+																																	<a class="dropdown-item" style="text-transform: uppercase;" target="" href="/facultylist/english/930">M.A (English)</a>
+																																</li>
+																													</ul>
+																									</li>
+																								<li class="dropdown-submenu">
+											
+																										
+																										<a class="dropdown-item" style="text-transform: uppercase;" target="" href="JavaScript:void(0)">PH.D<i class="fa fa-caret-right"></i></a>
+											
+																																								<ul class="dropdown-menu">
+																															<li class="">
+														
+																																	<li class="">
+																	<a charset="  " class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauni.ac.in/english">English</a>
+																	</li>
+																																</li>
+																													</ul>
+																									</li>
+																								</ul>
+																					                                    </li>
+                            
+								                                        
+                                  <li class="dropdown-submenu pull-left">
+											
+																					
+																								<a class="dropdown-item" style="text-transform: uppercase;" target="" href="JavaScript:void(0)">FACULTY  OF TRANSFORMATIVE EDUCATION<i class="fa fa-caret-right"></i></a>
+																																		<ul class="dropdown-menu">
+																								<li class="dropdown-submenu">
+											
+																										
+																									<li class="">
+													<a class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauni.ac.in/school-of-consciousness-development-and-value-education-cdve">School of Consciousness Development and Value Education (CDVE)</a>
+												</li>
+											
+																																						</li>
+																								<li class="dropdown-submenu">
+											
+																										
+																									<li class="">
+													<a class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauni.ac.in/school-of-indian-knowledge-systems-iks">School of Indian Knowledge Systems (IKS)</a>
+												</li>
+											
+																																						</li>
+																								<li class="dropdown-submenu">
+											
+																										
+																									<li class="">
+													<a class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauni.ac.in/school-of-sustainable-development-sd">School of Sustainable Development (SD)</a>
+												</li>
+											
+																																						</li>
+																								<li class="dropdown-submenu">
+											
+																										
+																									<li class="">
+													<a class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauni.ac.in/phd-in-cdve">Ph.D. in CDVE</a>
+												</li>
+											
+																																						</li>
+																								</ul>
+																					                                    </li>
+                            
+								                                        
+                                  <li class="dropdown-submenu pull-left">
+											
+																					
+																																			<li class="">
+													<a class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauni.ac.in/phd">Ph.D</a>
+												</li>
+																																												                                    </li>
+                            
+								                                        
+                                  <li class="dropdown-submenu pull-left">
+											
+																					
+																																			<li class="">
+													<a class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauni.ac.in/international-affairs">International Affairs</a>
+												</li>
+																																												                                    </li>
+                            
+								                        </ul>
+						
+                        </li>
+						
+                      					                     			                              
+							
+                                              <li class="dropdown" id="navbarDropdown1">
+							<a class="nav-link dropdown" href="JavaScript:void(0);" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Admission</a>
+                       
+                          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                                                       
+                                  <li class="dropdown-submenu pull-left">
+											
+																					
+																																			<li class="">
+													<a class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauni.ac.in/after-12th-undergraduate-ug-programs">After 12th (Undergraduate-UG Programs)</a>
+												</li>
+																																												                                    </li>
+                            
+								                                        
+                                  <li class="dropdown-submenu pull-left">
+											
+																					
+																																			<li class="">
+													<a class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauni.ac.in/pg-postgraduate-pg-programs">PG (Postgraduate – PG Programs)</a>
+												</li>
+																																												                                    </li>
+                            
+								                                        
+                                  <li class="dropdown-submenu pull-left">
+											
+																					<li class="">
+											<a class="dropdown-item" style="text-transform: uppercase;" target="" href="">Download Brochure</a>
+											</li>
+										                                    </li>
+                            
+								                        </ul>
+						
+                        </li>
+						
+                      					                     			                              						<li style="background-color:white;display: contents;"><a class="nav-link"  href="#" ></a></li>
+							
+							
+                                              <li class="dropdown" id="navbarDropdown1">
+							<a class="nav-link dropdown" href="JavaScript:void(0);" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Life@AU</a>
+                       
+                          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                                                       
+                                  <li class="dropdown-submenu pull-left">
+											
+																					
+																																			<li class="">
+													<a class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauni.ac.in/ict-facility">ICT Facility</a>
+												</li>
+																																												                                    </li>
+                            
+								                                        
+                                  <li class="dropdown-submenu pull-left">
+											
+																					
+																																			<li class="">
+													<a class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauni.ac.in/support-for-competitive-exams">Support For Competitive Exams</a>
+												</li>
+																																												                                    </li>
+                            
+								                                        
+                                  <li class="dropdown-submenu pull-left">
+											
+																					
+																																			<li class="">
+													<a class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauni.ac.in/auditoriums">Auditoriums</a>
+												</li>
+																																												                                    </li>
+                            
+								                                        
+                                  <li class="dropdown-submenu pull-left">
+											
+																					
+																																			<li class="">
+													<a class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauni.ac.in/welfare-services">Welfare Services</a>
+												</li>
+																																												                                    </li>
+                            
+								                                        
+                                  <li class="dropdown-submenu pull-left">
+											
+																					
+																																			<li class="">
+													<a class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauni.ac.in/student-support">Student Support</a>
+												</li>
+																																												                                    </li>
+                            
+								                                        
+                                  <li class="dropdown-submenu pull-left">
+											
+																					
+																																			<li class="">
+													<a class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauni.ac.in/student-mess">Student Mess</a>
+												</li>
+																																												                                    </li>
+                            
+								                                        
+                                  <li class="dropdown-submenu pull-left">
+											
+																					<li class="">
+											<a class="dropdown-item" style="text-transform: uppercase;" target="" href="/sportsgallery/sports">Sports</a>
+											</li>
+										                                    </li>
+                            
+								                                        
+                                  <li class="dropdown-submenu pull-left">
+											
+																					<li class="">
+											<a class="dropdown-item" style="text-transform: uppercase;" target="" href="/hostel/hostel">Hostel</a>
+											</li>
+										                                    </li>
+                            
+								                                        
+                                  <li class="dropdown-submenu pull-left">
+											
+																					<li class="">
+											<a class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauni.ac.in/event_list">Events</a>
+											</li>
+										                                    </li>
+                            
+								                                        
+                                  <li class="dropdown-submenu pull-left">
+											
+																					
+																																			<li class="">
+													<a class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauni.ac.in/transportation">Transportation</a>
+												</li>
+																																												                                    </li>
+                            
+								                                        
+                                  <li class="dropdown-submenu pull-left">
+											
+																					
+																																			<li class="">
+													<a class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauni.ac.in/art-gallery">ART GALLERY</a>
+												</li>
+																																												                                    </li>
+                            
+								                        </ul>
+						
+                        </li>
+						
+                      					                     			                              
+							
+                                              <li class="dropdown" id="navbarDropdown1">
+							<a class="nav-link dropdown" href="JavaScript:void(0);" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Research&nbsp;& Innovation</a>
+                       
+                          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                                                       
+                                  <li class="dropdown-submenu pull-left">
+											
+																					
+																																			<li class="">
+													<a class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauni.ac.in/ariia">ARIIA</a>
+												</li>
+																																												                                    </li>
+                            
+								                                        
+                                  <li class="dropdown-submenu pull-left">
+											
+																					
+																																			<li class="">
+													<a class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauni.ac.in/iic">IIC</a>
+												</li>
+																																												                                    </li>
+                            
+								                                        
+                                  <li class="dropdown-submenu pull-left">
+											
+																					
+																																			<li class="">
+													<a class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauni.ac.in/ssip">SSIP</a>
+												</li>
+																																												                                    </li>
+                            
+								                                        
+                                  <li class="dropdown-submenu pull-left">
+											
+																					
+																																			<li class="">
+													<a class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauni.ac.in/nisp">NISP</a>
+												</li>
+																																												                                    </li>
+                            
+								                                        
+                                  <li class="dropdown-submenu pull-left">
+											
+																					<li class="">
+											<a class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauni.irins.org/">IRINS</a>
+											</li>
+										                                    </li>
+                            
+								                                        
+                                  <li class="dropdown-submenu pull-left">
+											
+																					
+																																			<li class="">
+													<a class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauni.ac.in/e-yuva">E-Yuva</a>
+												</li>
+																																												                                    </li>
+                            
+								                        </ul>
+						
+                        </li>
+						
+                      					                     			                              
+							
+                                              <li class="dropdown" id="navbarDropdown1">
+							<a class="nav-link dropdown" href="JavaScript:void(0);" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Sustainability</a>
+                       
+                          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                                                       
+                                  <li class="dropdown-submenu pull-left">
+											
+																					<li class="">
+											<a class="dropdown-item" style="text-transform: uppercase;" target="" href="/uhvlist/uhv-cell/544">CVMS Cell</a>
+											</li>
+										                                    </li>
+                            
+								                                        
+                                  <li class="dropdown-submenu pull-left">
+											
+																					
+																								<a class="dropdown-item" style="text-transform: uppercase;" target="" href="JavaScript:void(0)">EASD<i class="fa fa-caret-right"></i></a>
+																																		<ul class="dropdown-menu">
+																								<li class="dropdown-submenu">
+											
+																										
+																									<li class="">
+													<a class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauni.ac.in/message-from-president">Message From President</a>
+												</li>
+											
+																																						</li>
+																								<li class="dropdown-submenu">
+											
+																										
+																									<li class="">
+													<a class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauni.ac.in/about-easd">About EASD</a>
+												</li>
+											
+																																						</li>
+																								</ul>
+																					                                    </li>
+                            
+								                                        
+                                  <li class="dropdown-submenu pull-left">
+											
+																					
+																																			<li class="">
+													<a class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauni.ac.in/sarjan">Sarjan</a>
+												</li>
+																																												                                    </li>
+                            
+								                                        
+                                  <li class="dropdown-submenu pull-left">
+											
+																					
+																																			<li class="">
+													<a class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauni.ac.in/samarth">SAMARTH</a>
+												</li>
+																																												                                    </li>
+                            
+								                                        
+                                  <li class="dropdown-submenu pull-left">
+											
+																					
+																																			<li class="">
+													<a class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauni.ac.in/parivartan">Parivartan</a>
+												</li>
+																																												                                    </li>
+                            
+								                                        
+                                  <li class="dropdown-submenu pull-left">
+											
+																					
+																																			<li class="">
+													<a class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauni.ac.in/pravartanam">Pravartanam</a>
+												</li>
+																																												                                    </li>
+                            
+								                                        
+                                  <li class="dropdown-submenu pull-left">
+											
+																					<li class="">
+											<a class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauni.ac.in/public/file/Flora And Fauna On Campus.pdf">Flora and Fauna on campus</a>
+											</li>
+										                                    </li>
+                            
+								                        </ul>
+						
+                        </li>
+						
+                      					                     			                              
+							
+                                              <li class="dropdown" id="navbarDropdown1">
+							<a class="nav-link dropdown" href="JavaScript:void(0);" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Placement</a>
+                       
+                          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                                                       
+                                  <li class="dropdown-submenu pull-left">
+											
+																					
+																																			<li class="">
+													<a class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauni.ac.in/campus-placement">Campus Placement</a>
+												</li>
+																																												                                    </li>
+                            
+								                                        
+                                  <li class="dropdown-submenu pull-left">
+											
+																					
+																																			<li class="">
+													<a class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauni.ac.in/testimonials">Testimonials</a>
+												</li>
+																																												                                    </li>
+                            
+								                                        
+                                  <li class="dropdown-submenu pull-left">
+											
+																					
+																																			<li class="">
+													<a class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauni.ac.in/top-recruiters">Top Recruiters</a>
+												</li>
+																																												                                    </li>
+                            
+								                                        
+                                  <li class="dropdown-submenu pull-left">
+											
+																					
+																																																							                                    </li>
+                            
+								                                        
+                                  <li class="dropdown-submenu pull-left">
+											
+																					
+																																			<li class="">
+													<a class="dropdown-item" style="text-transform: uppercase;" target="" href="https://atmiyauni.ac.in/team-of-placement">TEAM OF PLACEMENT</a>
+												</li>
+																																												                                    </li>
+                            
+								                                        
+                                  <li class="dropdown-submenu pull-left">
+											
+																					
+																																																							                                    </li>
+                            
+								                                        
+                                  <li class="dropdown-submenu pull-left">
+											
+																					
+																																																							                                    </li>
+                            
+								                        </ul>
+						
+                        </li>
+						
+                      					                                       				  
+                                                     </ul>
+                            </nav>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+		
+    <!--dropdown mobile menu-->
+	
+	<script src="https://cdn.jsdelivr.net/npm/jquery@3.6.4/dist/jquery.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"></script>
+   
+		</body>
+</html></header>
+	<!-- body -->
+	
+<div id="feedback">
+   <!-- <button onclick="openForm()"><b>Admission Inquiry</b></button> -->
+	
+	 <button><a href="http://ems.atmiya.ac.in/Admission/Enquiry" target="_blank" style="text-decoration: none;color:#fff;"><b>Admission Enquiry</b></a></button>
+</div>
+
+    <div class="form-popup" id="myForm">
+        <form  class="form-container" >
+            <input type="hidden" name="_token" value="FPnG1Z34AbU8Zwczi6FTzfWPGnWLRgLQCHf2sWe8">                <div class="d-flex bd-highlight">
+                    <div class="p-2 flex-grow-1 bd-highlight"><h4><b>Admission Inquiry </b></h4></div>
+                        <div class="p-2 bd-highlight">
+                            <button type="button" style="margin-left:85%" class="btn-danger btn-sm" onclick="closeForm()"><i class="fa fa-close"></i></button>
+                        </div>
+                </div>
+                <input type="text"  placeholder="Student Name *" name="name" id="s_name" >
+                    <span class="text-danger" id="name"></span>
+    
+                <input type="email" placeholder="Email Address *" name="email" id="s_email" >
+                    <span class="text-danger" id="email"></span>
+
+                <input type="text"  placeholder="Mobile Number *" name="contact" id="s_contact"  oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*?)\..*/g, '$1');" maxlength="10"  >
+                    <span class="text-danger" id="contact"></span>
+        
+                <input type="text" placeholder="Programme *" name="programme" id="s_programme" >
+                    <span class="text-danger" id="programme"></span>
+
+                <input type="text" placeholder="Your State *" name="state" id="s_state" >
+                    <span class="text-danger" id="state"></span>
+
+                <input type="text" placeholder="Your City *" name="city" id="s_city" >
+                     <span class="text-danger" id="city"></span>
+
+                <input type="text" placeholder="Enquiry/Query *" name="enquiry_query" id="s_enquiry_query" >
+                        <span class="text-danger" id="enquiry_query"></span>
+
+                <button type="button" class="btn" onClick="FromSubmit()"><b>Submit</b></button>
+        
+        </form>
+    </div>
+
+<div class="pagewrap">
+       
+        <div class="bannerwrapper">
+			<!--<div class="slider-text">
+				<div class="v carousel-caption ">
+				<div class="atmiya360degree " >
+				<div class="leftopicon " >
+					<a href="javascript:void:(0)" >
+						<div class="leftopicon01"></div>
+						<div class="leftopicon02"></div>
+						<div class="leftopicon03"></div>
+						<span>
+							<i>360</i><sup>0</sup>
+						</span>
+					</a>
+				</div>
+				 </div>
+				</div>
+			</div>-->
+            
+						<div class="owl-carousel owl-theme">
+							
+						<!--	<img src="images/001 Strip.jpg" alt="Atmiya Univercity" style="background-color:white;">
+                            <img src="images/003 Strip.jpg" alt="Atmiya Univercity" style="background-color:white;">
+                            <img src="images/004 Strip.jpg" alt="Atmiya Univercity" style="background-color:white;">
+                            <img src="images/005 Strip.jpg" alt="Atmiya Univercity" style="background-color:white;">
+                            <img src="images/08 Strip.jpg" alt="Atmiya Univercity" style="background-color:white;">
+                            <img src="images/10 Strip .jpg" alt="Atmiya Univercity" style="background-color:white;">
+                           <img src="images/12 Strip.jpg" alt="Atmiya Univercity" style="background-color:white;"> 
+                            <img src="images/13 Strip.jpg" alt="Atmiya Univercity" style="background-color:white;">
+							<img src="images/Website Finel.jpg" alt="Atmiya Univercity" style="background-color:white;">
+							<img src="images/Web 01  Tal Tech Tallinn University Of Techonology Estonia  Gust Visit.jpg" alt="Atmiya Univercity" style="background-color:white;"> 
+                            <img src="images/Web 02 e Chargeng Station.jpg" alt="Atmiya Univercity" style="background-color:white;"> 
+                            <img src="images/Web 03 2Anti Corruption Day.jpg" alt="Atmiya Univercity" style="background-color:white;"> 
+                            <img src="images/Web 04 Jevan Vidya Sibir.jpg" alt="Atmiya Univercity" style="background-color:white;">
+							<img src="images/Web01.jpg" alt="Atmiya Univercity" style="background-color:white;"> 
+                            <img src="images/Web 02Telent Show.jpg" alt="Atmiya Univercity" style="background-color:white;"> 
+                            <img src="images/Web 03 Telent Show.jpg" alt="Atmiya Univercity" style="background-color:white;"> 
+                            <img src="images/Web 04 NAVRATRI.jpg" alt="Atmiya Univercity" style="background-color:white;"> 
+                            <img src="images/Web 05 Vyaapaar expo 2.0.jpg" alt="Atmiya Univercity" style="background-color:white;"> 
+							
+							<img src="images/AU1.jpg" alt="Atmiya Univercity" style="background-color:white;">
+							<img src="images/8920.JPG" alt="Atmiya Univercity" style="background-color:white;">
+						
+							
+							<img src="images/6600.JPG" alt="Atmiya Univercity" style="background-color:white;"> 
+							
+							<img src="images/20220126081827.jpg" alt="Atmiya Univercity" style="background-color:white;">  -->
+							 
+							
+																																<div class="item">
+										<img src="https://atmiyauni.ac.in/public/banner/1712585595.atmiya uinversity.jpg" alt="Atmiya Univercity" class="image2" />	
+									</div>
+															    																	<div class="item">
+										<img src="https://atmiyauni.ac.in/public/banner/1736490650.Chargeng Station.jpg" alt="Atmiya Univercity" class="image2" />	
+									</div>
+															    																	<div class="item">
+										<img src="https://atmiyauni.ac.in/public/banner/1736502797.Telent Show (2).jpg" alt="Atmiya Univercity" class="image2" />	
+									</div>
+															    																	<div class="item">
+										<img src="https://atmiyauni.ac.in/public/banner/1736490783.Telent Show.jpg" alt="Atmiya Univercity" class="image2" />	
+									</div>
+															    																	<div class="item">
+										<img src="https://atmiyauni.ac.in/public/banner/1736490941.university of the year 2024.jpg" alt="Atmiya Univercity" class="image2" />	
+									</div>
+															    																	<div class="item">
+										<img src="https://atmiyauni.ac.in/public/banner/1736502352.Vyaapaar expo 2.0.jpg" alt="Atmiya Univercity" class="image2" />	
+									</div>
+															    																	<div class="item">
+										<img src="https://atmiyauni.ac.in/public/banner/1736491100.4th Convocation.jpg" alt="Atmiya Univercity" class="image2" />	
+									</div>
+															    																	<div class="item">
+										<img src="https://atmiyauni.ac.in/public/banner/1736491249.Anti Corruption Day.jpg" alt="Atmiya Univercity" class="image2" />	
+									</div>
+															    																	<div class="item">
+										<img src="https://atmiyauni.ac.in/public/banner/1712585789.hdfc fund.JPG" alt="Atmiya Univercity" class="image2" />	
+									</div>
+															    																	<div class="item">
+										<img src="https://atmiyauni.ac.in/public/banner/1736504949.NAVRATRI.jpg" alt="Atmiya Univercity" class="image2" />	
+									</div>
+															    																	<div class="item">
+										<img src="https://atmiyauni.ac.in/public/banner/1736491599.4th Convocation (3).jpg" alt="Atmiya Univercity" class="image2" />	
+									</div>
+															    																	<div class="item">
+										<img src="https://atmiyauni.ac.in/public/banner/1736491725.4th Convocation (4).jpg" alt="Atmiya Univercity" class="image2" />	
+									</div>
+															    																	<div class="item">
+										<img src="https://atmiyauni.ac.in/public/banner/1712585878.NCC.jpg" alt="Atmiya Univercity" class="image2" />	
+									</div>
+															    																	<div class="item">
+										<img src="https://atmiyauni.ac.in/public/banner/1736489479.sport_Banner.jpg" alt="Atmiya Univercity" class="image2" />	
+									</div>
+															    																	<div class="item">
+										<img src="https://atmiyauni.ac.in/public/banner/1736489685.1715680883.HAPPY-WOMENS-day.jpg" alt="Atmiya Univercity" class="image2" />	
+									</div>
+															    																	<div class="item">
+										<img src="https://atmiyauni.ac.in/public/banner/1736489819.Human Calculator.jpg" alt="Atmiya Univercity" class="image2" />	
+									</div>
+															    																	<div class="item">
+										<img src="https://atmiyauni.ac.in/public/banner/1736489951.Leser Cuting Machine.jpg" alt="Atmiya Univercity" class="image2" />	
+									</div>
+															    																	<div class="item">
+										<img src="https://atmiyauni.ac.in/public/banner/1736504791.Organic_Khedut.jpg" alt="Atmiya Univercity" class="image2" />	
+									</div>
+															    																	<div class="item">
+										<img src="https://atmiyauni.ac.in/public/banner/1736490222.Sthapatya.jpg" alt="Atmiya Univercity" class="image2" />	
+									</div>
+															    																	<div class="item">
+										<img src="https://atmiyauni.ac.in/public/banner/1736490356.DR. A.P.J. ABDUL KALAM INSPIRATION AWARDS 2024.jpg" alt="Atmiya Univercity" class="image2" />	
+									</div>
+															    																	<div class="item">
+										<img src="https://atmiyauni.ac.in/public/banner/1736423012.1723175332.INTERNATIONAL-YOG-DAY_1.jpg" alt="Atmiya Univercity" class="image2" />	
+									</div>
+															    																	<div class="item">
+										<img src="https://atmiyauni.ac.in/public/banner/1736503809.Jeevan-Vidya.jpg" alt="Atmiya Univercity" class="image2" />	
+									</div>
+															    																	<div class="item">
+										<img src="https://atmiyauni.ac.in/public/banner/1736423401.1723175364.NCC-Relly.jpg" alt="Atmiya Univercity" class="image2" />	
+									</div>
+															    																	<div class="item">
+										<img src="https://atmiyauni.ac.in/public/banner/1736490500.Traffic - Awareness.jpg" alt="Atmiya Univercity" class="image2" />	
+									</div>
+															    																	<div class="item">
+										<img src="https://atmiyauni.ac.in/public/banner/1727168950.ida-Awards-2024.jpg" alt="Atmiya Univercity" class="image2" />	
+									</div>
+															    																	<div class="item">
+										<img src="https://atmiyauni.ac.in/public/banner/1736422486.1731909662.Navratri-2024.jpg" alt="Atmiya Univercity" class="image2" />	
+									</div>
+															    																	<div class="item">
+										<img src="https://atmiyauni.ac.in/public/banner/1736503449.Vighnaraj Mahostav 2024.jpg" alt="Atmiya Univercity" class="image2" />	
+									</div>
+															    						    
+						</div>
+							
+		</div>
+		
+		<!-- <div class="">
+            <div class="container">
+				<div class="row">
+					<div class="slider-text">
+						<div class="carousel-caption ">
+							<div class="atmiya360degree " >
+								<div class="leftopicon " >
+									<a href="javascript:void:(0)" >
+										<div class="leftopicon01"></div>
+										<div class="leftopicon02"></div>
+										<div class="leftopicon03"></div>
+										<span>
+											<i>360</i><sup>0</sup>
+										</span>
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>-->
+		 <div class="">
+            <div class="container">
+			
+                <div >
+                    <ul >
+                        <li>
+						
+						  <div class="slider-text">
+						<div class="carousel-caption ">
+							<!--div class="atmiya360degree " >
+								<div class="leftopicon " >
+									<a href="javascript:void:(0)" >
+										<div class="leftopicon01"></div>
+										<div class="leftopicon02"></div>
+										<div class="leftopicon03"></div>
+										<span>
+											<i>360</i><sup>1</sup>
+										</span>
+									</a>
+								</div>
+							</div-->
+						</div>
+					</div>
+						</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+		
+        <div class="onlineadmissionregistration">
+            <div class="container">
+			
+                <marquee id="Marquee01" scrollamount='5' direction="left" behavior="scroll">
+                    <ul onmouseover="document.getElementById('Marquee01').stop();" onmouseout="document.getElementById('Marquee01').start();">
+                        <li>
+						
+						   								  
+																
+                                   									   
+									    <span>
+                                            <a href="/public/file/1723032129.Sustainable Brochure Softcopy File (4).pdf"  style="color: white;" target="_blank"> <b> National Conference On Sustainable and Co-Existential Futures 2024&nbsp; </b></a>
+                                        </span> 
+								   							
+											
+								
+																
+                                   									   
+									    <span>
+                                            <a href="https://atmiyauni.ac.in/jv_sammelan"  style="color: white;" target="_blank"> <b> २६वाँ राष्ट्रीय जीवन विद्या वार्षिक सम्मेलन (26 th Annual Jeevan Vidya National Convention 2024) </b></a>
+                                        </span> 
+								   							
+											
+								
+																
+                                   									   
+									    <span>
+                                            <a href="/public/file/1720526640.AGW 2024 Ultimate Flyer.pdf"  style="color: white;" target="_blank"> <b> AGW Flyer 2024 </b></a>
+                                        </span> 
+								   							
+											
+								
+																
+                                   									   
+									    <span>
+                                            <a href="https://library.atmiyauni.ac.in/anveshana/"  style="color: white;" target="_blank"> <b> Anveshana - The Hackathon-2024 </b></a>
+                                        </span> 
+								   							
+											
+								
+																
+                                   									   
+									    <span>
+                                            <a href="https://atmiyauni.ac.in/public/file/1740803663.Report _Shree Renuka Sugars Ltd._01 Feb 2025.pdf"  style="color: white;" target="_blank"> <b> Academic Workshop in M/s Shree Renuka Sugars Ltd. </b></a>
+                                        </span> 
+								   							
+											
+								
+																					</li>
+                    </ul>
+                </marquee>
+            </div>
+        </div>
+        <div class="servicesbg">
+            <div class="container">
+			<div class="row">
+			<div class="col-md-6">
+                <div class="servicesleft">
+                     <div class="servicesboxwrap"> 
+						<div class="row">
+						<div class="col-md-4 col-xs-6" style="cursor: default;">
+							 <div class="servicesboxbg" style="cursor: default;">                            
+							 <div class="servicesbox" style="cursor: default;">                                
+							 <span style="color: white;"><b><i><em><span class="counter count" data-count="50" style="margin-top:26%">&nbsp;0</span><i style="margin-top: -46px;margin-left: 31px;">+</i></em></i></b></span>        <h3>YEARS OF</h3><h3>ACADEMIC</h3><h3> EXCELLENCE</h3>   		 
+							 </div>                        
+							 </div> 
+						 </div>
+						 <div class="col-md-4 col-xs-6" style="cursor: default;">
+							 <div class="servicesboxbg" style="cursor: default;">                            
+							 <div class="servicesbox" style="cursor: default;">                                
+							 <span style="color: white;"><b><i><em><span class="counter count" data-count="6" style="margin-top:26%">&nbsp;0</span></em></i></b></span>             
+							 <h3>FACULTIES</h3>                         
+							 </div>                        
+							 </div> 
+						</div>
+					<div class="col-md-4 col-xs-6" style="cursor: default;">
+						 <div class="servicesboxbg" style="cursor: default;">                            
+						 <div class="servicesbox servicesbox03" style="cursor: default;">                                
+						 <span style="color: white;"> <b><i><em><span class="counter count" data-count="23" style="margin-top:26%">&nbsp;0</span></em></i></b></span>          
+						 <h3>DEPARTMENTS</h3>                           
+						 </div>                        
+						 </div> 					 
+					</div> 
+					<div class="col-md-4 col-xs-6" style="cursor: default;">
+						 <div class="servicesboxbg" style="cursor: default;">                            
+						 <div class="servicesbox servicesbox04" style="cursor: default;">                                
+						 <span style="color: white;"><b><i><em><span class="counter count" data-count="64" style="margin-top:26%">&nbsp;0</span></em></i></b></span>                  <h3>PROGRAMS</h3>                            
+						 </div>                        
+						 </div>
+					</div>
+					<div class="col-md-4 col-xs-6" style="cursor: default;">
+						 <div class="servicesboxbg" style="cursor: default;">                           
+						 <div class="servicesbox servicesbox05" style="cursor: default;">                                
+						 <span style="color: white;" ><b><i><em><span class="counter count" data-count="250" style="margin-top:26%">&nbsp;0</span><i style="margin-top: -46px;margin-left: 39px;">+</i></em></i></b></span>                   
+						 <h3>QUALIFIED</h3><h3>RESEARCH ORIENTED</h3><h3>MEMBERS</h3>                            
+						 </div>                        
+						 </div> 
+					 </div>
+					 <div class="col-md-4 col-xs-6" style="cursor: default;">
+						 <div class="servicesboxbg" style="cursor: default;">                            
+						 <div class="servicesbox servicesbox06" style="cursor: default;">                                
+						 <span style="color: white;"><b><i><em><span class="counter count" data-count="2500" style="margin-left:-6px;margin-top:26%">&nbsp;0</span><i style="margin-top: -46px;margin-left: 43px;">+</i></em></i></b></span>		<h3>STUDENTS</h3><h3>JOINING</h3><h3>EVERY YEAR</h3>                           
+						 </div>                      
+						 </div> 
+					</div>
+					 </div>
+                </div></div></div>
+                <div class="col-md-6" style="margin-top:4.5%;">
+				
+                   <div id="" > 
+				   
+						                            <div class="slides">
+                                <img src="https://atmiyauni.ac.in/public/imageslider/1722489165.001.jpg" style="width:880px;height:490px;border:1.5px solid black;">
+                            </div>
+                                                    <div class="slides">
+                                <img src="https://atmiyauni.ac.in/public/imageslider/1722489174.002.png" style="width:880px;height:490px;border:1.5px solid black;">
+                            </div>
+                                                    <div class="slides">
+                                <img src="https://atmiyauni.ac.in/public/imageslider/1736504119.sport.jpg" style="width:880px;height:490px;border:1.5px solid black;">
+                            </div>
+                                                    <div class="slides">
+                                <img src="https://atmiyauni.ac.in/public/imageslider/1736421511.jivan_vidhiya_sibir2.jpeg" style="width:880px;height:490px;border:1.5px solid black;">
+                            </div>
+                                                    <div class="slides">
+                                <img src="https://atmiyauni.ac.in/public/imageslider/1736504007.jivan_vidhiya_sibir.jpeg" style="width:880px;height:490px;border:1.5px solid black;">
+                            </div>
+                                                    <div class="slides">
+                                <img src="https://atmiyauni.ac.in/public/imageslider/1736421802.1722489220.006.jpg" style="width:880px;height:490px;border:1.5px solid black;">
+                            </div>
+                                                    <div class="slides">
+                                <img src="https://atmiyauni.ac.in/public/imageslider/1736421910.1722489230.007.jpg" style="width:880px;height:490px;border:1.5px solid black;">
+                            </div>
+                                                    <div class="slides">
+                                <img src="https://atmiyauni.ac.in/public/imageslider/1736422011.1722489242.008.jpg" style="width:880px;height:490px;border:1.5px solid black;">
+                            </div>
+                                                    <div class="slides">
+                                <img src="https://atmiyauni.ac.in/public/imageslider/1736504520.009.jpg" style="width:880px;height:490px;border:1.5px solid black;">
+                            </div>
+                                                    <div class="slides">
+                                <img src="https://atmiyauni.ac.in/public/imageslider/1736420007.1722489271.010_optimized_500.jpg" style="width:880px;height:490px;border:1.5px solid black;">
+                            </div>
+                                                    <div class="slides">
+                                <img src="https://atmiyauni.ac.in/public/imageslider/1722489281.011.jpg" style="width:880px;height:490px;border:1.5px solid black;">
+                            </div>
+                                                    <div class="slides">
+                                <img src="https://atmiyauni.ac.in/public/imageslider/1722489288.012_Library.jpg" style="width:880px;height:490px;border:1.5px solid black;">
+                            </div>
+                                                    <div class="slides">
+                                <img src="https://atmiyauni.ac.in/public/imageslider/1722489296.013_siderhome5.jpg" style="width:880px;height:490px;border:1.5px solid black;">
+                            </div>
+                                                    <div class="slides">
+                                <img src="https://atmiyauni.ac.in/public/imageslider/1736503937.FDP.jpg" style="width:880px;height:490px;border:1.5px solid black;">
+                            </div>
+                                                    <div class="slides">
+                                <img src="https://atmiyauni.ac.in/public/imageslider/1736503366.Diksharambh-2024.jpg" style="width:880px;height:490px;border:1.5px solid black;">
+                            </div>
+                                                    <div class="slides">
+                                <img src="https://atmiyauni.ac.in/public/imageslider/1736420971.1723175426.Skill-Dev-Programm.jpg" style="width:880px;height:490px;border:1.5px solid black;">
+                            </div>
+                        					  
+					  <div id="dot"><span class="dot"></span><span class="dot"></span><span class="dot"></span><span class="dot"></span><span class="dot"></span></div>
+					</div>
+
+                </div>
+				</div>
+            </div>
+        </div>
+        <div class="facilitieswrapper">
+            <div class="container">
+                <div class="facilitiesbg">
+				 <!--
+				   							 
+											        
+						
+																	
+									<img class="im1" style="height:70px" src="https://atmiyauni.ac.in/public/scalar/1624590713.record06.png">
+																	<div class="facilitiesbox">
+								<h3 class="fn1 counter count " style="color: ;text-align: center;font-weight: 600;line-height:inherit;">100000</h3>
+								<p>Alumni</p>
+							    </div>
+							
+						
+											        
+						
+																	
+									<img class="im1" style="height:70px" src="https://atmiyauni.ac.in/public/scalar/1624590811.record05.png">
+																	<div class="facilitiesbox">
+								<h3 class="fn1 counter count " style="color: ;text-align: center;font-weight: 600;line-height:inherit;">100</h3>
+								<p>Faculty with Ph.D.</p>
+							    </div>
+							
+						
+												-->
+		   
+			
+				
+				
+				
+                   <div class="facilitiesbox">
+                        <span class="counter count" data-count="100000">0</span><i>+</i>
+                        <p>Alumni</p>
+                    </div>
+                    <div class="facilitiesbox facilitiesbox02">
+                        <span class="counter count" data-count="100">0</span><i>+</i>
+                        <p>Faculty with Ph.D.</p>
+                    </div>
+                    <div class="facilitiesbox facilitiesbox03">
+                        <span class="counter count" data-count="2500">0</span><i>+</i>
+                        <p>Research Publications</p>
+                    </div>
+                    <div class="facilitiesbox facilitiesbox04">
+                        <span class="counter count" data-count="150">0</span><i>+</i>
+                        <p>Startups &<i>Patents</i></p>
+                    </div>
+                    <div class="facilitiesbox facilitiesbox05">
+                        <span class="counter count" data-count="250">0</span><i>+</i>
+                        <p>Recruiters</p>
+                    </div>
+                    <div class="facilitiesbox facilitiesbox06">
+                        <span class="counter count" data-count="23">0</span><i>+ Acre</i>
+                        <p>Centrally Located <i>Campus</i></p>
+                    </div>
+					
+					
+					
+					
+                </div>
+            </div>
+        </div>
+        <div class="latestnewswrapper">
+            <div class="container">
+                <div class="latestnewsbg">
+                    <div class="latestnewsleft">
+                        <div class="latestnewscontent">
+                            <h2 class="latestnewstitle">Announcement</h2>
+                            
+                 	          <div class="latestnewsbox">
+							 
+								<marquee id="Marquee02" scrollamount='5' direction="up" behavior="scroll">
+								  
+									<ul onmouseover="document.getElementById('Marquee02').stop();" onmouseout="document.getElementById('Marquee02').start();">
+																					
+											
+											<li>
+												   													<i>
+														1st December, 2024
+													</i>
+																												<span>
+														<a style="color : #22225E" href="/public/file/1734072044.FDP_Broucher_2025_13-11.pdf" target="_blank"><i class="icon-double-angle-right"></i>ATAL Online 6 Days FDP on Recent Therapeutic and Diagnostic Trends in Healthcare and Medical Technlogy</a> </span>
+																																										ATAL Online 6 Days FDP on Recent Therapeutic and Diagnostic Trends in Healthcare and Medical Technlogy																									        											</li>
+											
+											<li>
+												   													<i>
+														3rd March, 2025
+													</i>
+																												<span>
+														<a style="color : #22225E" href="https://atmiyauni.ac.in/latestnews/hands-on-workshop-on-advance-instrumental-techniques-2025" ><span><i class="icon-double-angle-right"></i></span>" Hands-on Workshop on  Advance Instrumental Techniques - 2025 "</a>  </span>
+																																										&quot;Hands-on Workshop on Advance Instrumental Techniques - 2025&quot;
+
+Two days National Level&nbsp; &quot;Hands-on Workshop on
+Advance Instrumental Techniques - 2025&quot;
+on
+03rd &amp; 04th March - 2025
+
+
+Sponsored by
+Gujarat State Biotechnology Mission, Government of Gujarat
+
+Chemistry_GSBTM Workshop																									        											</li>
+																													</ul>
+									
+								</marquee>
+							  </div>
+							  <div style="text-align:center;">
+								<a class="btn btn-primary" style="background-color:#22225E;color:white;" href="https://atmiyauni.ac.in/viewmore">View More</a>
+							  </div>
+                        </div>
+                    </div>
+                   
+                      <div class="latestupdates">
+                        <h2 class="latestnewstitle">News  & <span>Updates</span></h2>
+                        <div class="latestupdateslider">
+                            <div class="latestupdatesplay">
+                                
+								
+			                      
+																	
+								                                   
+									
+																		<div class=" col-md-6 " >
+										 
+										<div class="latestupdatesbox">
+											
+												<figure>
+          
+												          
+												<img  src="https://atmiyauni.ac.in/public/latestupdate/1675749751.Latest Update 07-02.jpg" style=" width: 100%;">
+																								</figure>   	
+										
+											<div class="latestupdatesbg">
+											
+												 
+													<p style="height:40px">Atmiya Group of Institutions</p>
+													<a href="https://atmiyauni.ac.in/latestupdate/atmiya-group-of-institutions">Read More</a>
+											</div>
+										</div>
+											
+										 									</div>
+									 
+								                                   
+									
+																		<div class=" col-md-6 " >
+										 
+										<div class="latestupdatesbox">
+											
+												<figure>
+          
+												          
+												<img  src="https://atmiyauni.ac.in/public/latestupdate/1722657233.Transportation.jpeg" style=" width: 100%;">
+																								</figure>   	
+										
+											<div class="latestupdatesbg">
+											
+												 
+													<p style="height:40px">Transportation</p>
+													<a href="https://atmiyauni.ac.in/latestupdate/transportation">Read More</a>
+											</div>
+										</div>
+											
+										 									</div>
+									 
+																								
+								
+                            </div>
+                        </div>
+                    </div>
+            </div>
+        </div>
+        <div class="distinctivewrapper">
+            <div id="particles-js01"><canvas class="particles-js-canvas-el" width="495" height="554" style="width: 100%; height: 100%;"></div>            
+            <div class="container">
+                <div class="titletop">
+                    <span>Our Distinctiveness</span>
+                    <h2>Our Distinctiveness</h2>
+                </div>
+                <div class="distinctivecontent">
+                    <p>
+					        
+														  					<!--It is a long established fact that a reader will be</i> distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.-->
+					</p>
+
+                    <div class="distinctiveboxes">
+ 
+                        <div class="distinctiveboxrow">
+                            <div class="distinctivebox">
+                                <div class="distinctiveboxbg" style="cursor:none;">Curriculum Aimed <i>at Holistic</i> Development</div>
+                                <div class="distinctivesap">&nbsp;</div>
+                            </div>
+                            <div class="distinctivebox">
+                                <div class="distinctiveboxbg" style="cursor:none;">Disciplined <i>and</i> Secured Campus</div>
+                                <div class="distinctivesap">&nbsp;</div>
+                            </div>
+                            <div class="distinctivebox distinctivebox02">
+                                <div class="distinctiveboxbg" style="cursor:none;">World <i>Class</i> Infrastructure</div>
+                                <div class="distinctivesap">&nbsp;</div>
+                            </div>
+                            <div class="distinctivebox distinctivebox02">
+                                <div class="distinctiveboxbg" style="cursor:none;">Value Education <i>for consciousness </i> Development</div>
+                                <div class="distinctivesap">&nbsp;</div>
+                            </div>
+							
+                        </div>
+                        <div class="distinctiveboxrow">
+                            <div class="distinctivebox distinctivebox03">
+                                <div class="distinctiveboxbg" style="cursor:none;">Choice and Outcome <i>Based</i> Education</div>
+                                <div class="distinctivesap">&nbsp;</div>
+                            </div>
+                            <div class="distinctivebox distinctivebox03">
+                                <div class="distinctiveboxbg" style="cursor:none;">Emphasis on <i>Research &</i> Innovation</div>
+                                <div class="distinctivesap">&nbsp;</div>
+                            </div>
+                            <div class="distinctivebox distinctivebox04">
+                                <div class="distinctiveboxbg" style="cursor:none;">Strong <i>Industries</i> Linkages</div>
+                                <div class="distinctivesap">&nbsp;</div>
+                            </div>
+                            <div class="distinctivebox distinctivebox04">
+                                <div class="distinctiveboxbg" style="cursor:none;">National & <i>International</i> Collaborations</div>
+                                <div class="distinctivesap">&nbsp;</div>
+                            </div>
+                        </div>
+						
+						
+						
+                        <div class="atmiyalogo02"><img src="images/logo02.png" alt="Atmiya Univercity Logo" /></div>
+						
+						
+                    </div>
+                </div>
+            </div>
+            <div id="particles-js02"><canvas class="particles-js-canvas-el" width="495" height="554" style="width: 100%; height: 100%;"></div>            
+        </div>
+        <div class="facultieswrapper">
+            <div class="container">
+                <div class="facultiescontent">
+                    <div class="titletop02">
+                        <span>FACULTIES</span>
+                        <h2>FACULTIES</h2>
+                    </div>
+					
+                    <div class="facultiesboxes">
+						
+																			<div class="facultiesbox">
+							  <div class="flip-box">
+							     <div class="flip-box-inner">
+								    <div class="flip-box-front">
+										<i style="width:100%;text-align:center;">
+																						<img class="im1"  style="max-width:200px;max-height:200px;" src="https://atmiyauni.ac.in/public/faculty/1634726117.1.png">
+																					</i>
+									</div>
+									<div class="flip-box-back"  style="top: 80px;" >
+									  <a href="https://atmiyauni.ac.in/faculty/foet-261"> 
+											<button class="btn btn-primary" style="border-color: #22225e;background-color: #22225e;">Read More</button>
+										</a> 
+									</div>
+								</div>
+							  </div>
+								<h3 class="fn1" style="color: #22225E;text-align: center;font-weight: 600;line-height:inherit;">FoET</h3>
+								<p>FACULTY OF ENGINEERING TECHNOLOGY</p>
+							</div>						
+													<div class="facultiesbox">
+							  <div class="flip-box">
+							     <div class="flip-box-inner">
+								    <div class="flip-box-front">
+										<i style="width:100%;text-align:center;">
+																						<img class="im1"  style="max-width:200px;max-height:200px;" src="https://atmiyauni.ac.in/public/faculty/1634720553.4.png">
+																					</i>
+									</div>
+									<div class="flip-box-back"  style="top: 80px;" >
+									  <a href="https://atmiyauni.ac.in/faculty/fohs-621"> 
+											<button class="btn btn-primary" style="border-color: #22225e;background-color: #22225e;">Read More</button>
+										</a> 
+									</div>
+								</div>
+							  </div>
+								<h3 class="fn1" style="color: #22225E;text-align: center;font-weight: 600;line-height:inherit;">FoHS</h3>
+								<p>FACULTY OF Health SCIENCES</p>
+							</div>						
+													<div class="facultiesbox">
+							  <div class="flip-box">
+							     <div class="flip-box-inner">
+								    <div class="flip-box-front">
+										<i style="width:100%;text-align:center;">
+																						<img class="im1"  style="max-width:200px;max-height:200px;" src="https://atmiyauni.ac.in/public/faculty/1634635067.1625827625.3.png">
+																					</i>
+									</div>
+									<div class="flip-box-back"  style="top: 80px;" >
+									  <a href="https://atmiyauni.ac.in/faculty/fobc"> 
+											<button class="btn btn-primary" style="border-color: #22225e;background-color: #22225e;">Read More</button>
+										</a> 
+									</div>
+								</div>
+							  </div>
+								<h3 class="fn1" style="color: #22225E;text-align: center;font-weight: 600;line-height:inherit;">FoBC</h3>
+								<p>FACULTY OF BUSINESS & COMMERCE</p>
+							</div>						
+													<div class="facultiesbox">
+							  <div class="flip-box">
+							     <div class="flip-box-inner">
+								    <div class="flip-box-front">
+										<i style="width:100%;text-align:center;">
+																						<img class="im1"  style="max-width:200px;max-height:200px;" src="https://atmiyauni.ac.in/public/faculty/1634635156.1625827616.2.png">
+																					</i>
+									</div>
+									<div class="flip-box-back"  style="top: 80px;" >
+									  <a href="https://atmiyauni.ac.in/faculty/fos"> 
+											<button class="btn btn-primary" style="border-color: #22225e;background-color: #22225e;">Read More</button>
+										</a> 
+									</div>
+								</div>
+							  </div>
+								<h3 class="fn1" style="color: #22225E;text-align: center;font-weight: 600;line-height:inherit;">FoS</h3>
+								<p>FACULTY OF SCIENCE</p>
+							</div>						
+													<div class="facultiesbox">
+							  <div class="flip-box">
+							     <div class="flip-box-inner">
+								    <div class="flip-box-front">
+										<i style="width:100%;text-align:center;">
+																						<img class="im1"  style="max-width:200px;max-height:200px;" src="https://atmiyauni.ac.in/public/faculty/1634726207.5.png">
+																					</i>
+									</div>
+									<div class="flip-box-back"  style="top: 80px;" >
+									  <a href="https://atmiyauni.ac.in/faculty/fohss"> 
+											<button class="btn btn-primary" style="border-color: #22225e;background-color: #22225e;">Read More</button>
+										</a> 
+									</div>
+								</div>
+							  </div>
+								<h3 class="fn1" style="color: #22225E;text-align: center;font-weight: 600;line-height:inherit;">FoHSS</h3>
+								<p>FACULTY OF HUMANITIES AND SOCIAL SCIENCES</p>
+							</div>						
+													<div class="facultiesbox">
+							  <div class="flip-box">
+							     <div class="flip-box-inner">
+								    <div class="flip-box-front">
+										<i style="width:100%;text-align:center;">
+																						<img class="im1"  style="max-width:200px;max-height:200px;" src="https://atmiyauni.ac.in/public/faculty/1712646575.image.png">
+																					</i>
+									</div>
+									<div class="flip-box-back"  style="top: 80px;" >
+									  <a href="https://atmiyauni.ac.in/faculty/fote-719"> 
+											<button class="btn btn-primary" style="border-color: #22225e;background-color: #22225e;">Read More</button>
+										</a> 
+									</div>
+								</div>
+							  </div>
+								<h3 class="fn1" style="color: #22225E;text-align: center;font-weight: 600;line-height:inherit;">FoTE</h3>
+								<p>FACULTY OF TRANSFORMATIVE EDUCATION</p>
+							</div>						
+																	</div>
+				</div>
+            </div>
+         </div>
+
+
+
+     <!--   <div class="clientlogoswrap">
+            <div class="container">
+                <div class="clientlogos">
+                    <div class="clientlogostitle">
+                        <h2>Approvals & <span>Accreditation</span> and Memberships</h2>
+                    </div>
+
+                    <div class="clientlogoslider">
+                        <div class="clientlogosplay">
+                            									
+								                    <div class="brand-item br"> 
+													<div class="clientlogosbox"> 
+								<span>
+  
+												                                            
+												<img src="https://atmiyauni.ac.in/public/memberships/1676980308.UGC Logo.png" style="height: 150px; width: 150px;border-radius:10px;">
+												   
+																				</span>
+								</br><p style="font-size:16px"><b>UGC</b></p>
+							</div>
+						
+					</div>
+					                    <div class="brand-item br"> 
+													<div class="clientlogosbox"> 
+								<span>
+  
+												                                            
+												<img src="https://atmiyauni.ac.in/public/memberships/1676981411.AICTE.png" style="height: 150px; width: 150px;border-radius:10px;">
+												   
+																				</span>
+								</br><p style="font-size:16px"><b>AICTE</b></p>
+							</div>
+						
+					</div>
+					                    <div class="brand-item br"> 
+													<div class="clientlogosbox"> 
+								<span>
+  
+												                                            
+												<img src="https://atmiyauni.ac.in/public/memberships/1676981474.PCI.png" style="height: 150px; width: 150px;border-radius:10px;">
+												   
+																				</span>
+								</br><p style="font-size:16px"><b>PCI</b></p>
+							</div>
+						
+					</div>
+					                    <div class="brand-item br"> 
+													<div class="clientlogosbox"> 
+								<span>
+  
+												                                            
+												<img src="https://atmiyauni.ac.in/public/memberships/1676981445.BIRAC.png" style="height: 150px; width: 150px;border-radius:10px;">
+												   
+																				</span>
+								</br><p style="font-size:16px"><b>BIRAC</b></p>
+							</div>
+						
+					</div>
+					                    <div class="brand-item br"> 
+													<div class="clientlogosbox"> 
+								<span>
+  
+												                                            
+												<img src="https://atmiyauni.ac.in/public/memberships/1676952412.1676013860.E-YANTRA.png" style="height: 150px; width: 150px;border-radius:10px;">
+												   
+																				</span>
+								</br><p style="font-size:16px"><b>E-YANTRA</b></p>
+							</div>
+						
+					</div>
+					                    <div class="brand-item br"> 
+													<div class="clientlogosbox"> 
+								<span>
+  
+												                                            
+												<img src="https://atmiyauni.ac.in/public/memberships/1676981508.GKS.png" style="height: 150px; width: 150px;border-radius:10px;">
+												   
+																				</span>
+								</br><p style="font-size:16px"><b>GKS</b></p>
+							</div>
+						
+					</div>
+					                    <div class="brand-item br"> 
+													<div class="clientlogosbox"> 
+								<span>
+  
+												                                            
+												<img src="https://atmiyauni.ac.in/public/memberships/1676979903.GOG.png" style="height: 150px; width: 150px;border-radius:10px;">
+												   
+																				</span>
+								</br><p style="font-size:16px"><b>GOG</b></p>
+							</div>
+						
+					</div>
+					                    <div class="brand-item br"> 
+													<div class="clientlogosbox"> 
+								<span>
+  
+												                                            
+												<img src="https://atmiyauni.ac.in/public/memberships/1677136911.MHRD_2.png" style="height: 150px; width: 150px;border-radius:10px;">
+												   
+																				</span>
+								</br><p style="font-size:16px"><b>MHRD</b></p>
+							</div>
+						
+					</div>
+					                    <div class="brand-item br"> 
+													<div class="clientlogosbox"> 
+								<span>
+  
+												                                            
+												<img src="https://atmiyauni.ac.in/public/memberships/1676979975.NCC.png" style="height: 150px; width: 150px;border-radius:10px;">
+												   
+																				</span>
+								</br><p style="font-size:16px"><b>NCC</b></p>
+							</div>
+						
+					</div>
+					                    <div class="brand-item br"> 
+													<div class="clientlogosbox"> 
+								<span>
+  
+												                                            
+												<img src="https://atmiyauni.ac.in/public/memberships/1676980228.NSS.png" style="height: 150px; width: 150px;border-radius:10px;">
+												   
+																				</span>
+								</br><p style="font-size:16px"><b>NSS</b></p>
+							</div>
+						
+					</div>
+					              
+         
+
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>  -->
+		
+		 <div class="clientlogoswrap" style="background:#C6A359;margin:20px 0;">
+            <div class="container">
+                <div class="clientlogos">
+                    <div class="clientlogostitle" style="border-right:2px solid #000">
+                        
+                        <h2>Approvals & <span>Accreditation</span></h2>
+                    </div>
+
+                    <div class="clientlogoslider">
+                        <div class="clientlogosplay">
+                            
+								                                                                        <div class="brand-item br">
+                                                                                    
+                                                <div class="clientlogosbox">
+                                                    <span>
+
+                                                                    
+
+                                                                    <a href="https://www.ugc.gov.in/" target="_blank">
+                                                                         <img src="https://atmiyauni.ac.in/public/memberships/1676980308.UGC Logo.png" style="height: 150px; width: 150px;border-radius:10px;">
+                                                                    </a>
+                                                                                                                        </span>
+                                                    </br> <p style="font-size:16px"><b>UGC</b></p>
+                                                </div>
+                                    </div>
+                                    					                                                                                    <div class="brand-item br">
+                                                                                    
+                                                <div class="clientlogosbox">
+                                                    <span>
+
+                                                                    
+
+                                                                    <a href="https://www.aicte-india.org/" target="_blank">
+                                                                         <img src="https://atmiyauni.ac.in/public/memberships/1676981411.AICTE.png" style="height: 150px; width: 150px;border-radius:10px;">
+                                                                    </a>
+                                                                                                                        </span>
+                                                    </br> <p style="font-size:16px"><b>AICTE</b></p>
+                                                </div>
+                                    </div>
+                                    					                                                                                    <div class="brand-item br">
+                                                                                    
+                                                <div class="clientlogosbox">
+                                                    <span>
+
+                                                                    
+
+                                                                    <a href="https://www.pci.nic.in/" target="_blank">
+                                                                         <img src="https://atmiyauni.ac.in/public/memberships/1676981474.PCI.png" style="height: 150px; width: 150px;border-radius:10px;">
+                                                                    </a>
+                                                                                                                        </span>
+                                                    </br> <p style="font-size:16px"><b>PCI</b></p>
+                                                </div>
+                                    </div>
+                                    					                                                					                                                					                                                					                                                                                    <div class="brand-item br">
+                                                                                    
+                                                <div class="clientlogosbox">
+                                                    <span>
+
+                                                                    
+
+                                                                    <a href="https://gujaratindia.gov.in/" target="_blank">
+                                                                         <img src="https://atmiyauni.ac.in/public/memberships/1676979903.GOG.png" style="height: 150px; width: 150px;border-radius:10px;">
+                                                                    </a>
+                                                                                                                        </span>
+                                                    </br> <p style="font-size:16px"><b>GOG</b></p>
+                                                </div>
+                                    </div>
+                                    					                                                					                                                					                                                					                                                                </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="clientlogoswrap" style="background:white;margin:20px 0;">
+            <div class="container">
+                <div class="clientlogos">
+                    <div class="clientlogoslider" style="float: left;">
+                        <div class="clientlogosplay1">
+                            
+								                                					                                            					                                            					                                                    
+                                    <div class="brand-item br">
+                                                                               
+                                            <div class="clientlogosbox">
+                                                <span>
+
+                                                    
+                                                    <a href="https://www.birac.nic.in/" target="_blank">
+                                                        <img src="https://atmiyauni.ac.in/public/memberships/1676981445.BIRAC.png" style="height: 150px; width: 150px;border-radius:10px;">
+                                                    </a>
+                                                                                                    </span>
+                                                </br>
+                                                <p style="font-size:16px"><b>BIRAC</b></p>
+                                            </div>
+                                        
+                                    </div>
+                                    					                                                    
+                                    <div class="brand-item br">
+                                                                               
+                                            <div class="clientlogosbox">
+                                                <span>
+
+                                                    
+                                                    <a href="https://www.e-yantra.org/" target="_blank">
+                                                        <img src="https://atmiyauni.ac.in/public/memberships/1676952412.1676013860.E-YANTRA.png" style="height: 150px; width: 150px;border-radius:10px;">
+                                                    </a>
+                                                                                                    </span>
+                                                </br>
+                                                <p style="font-size:16px"><b>E-YANTRA</b></p>
+                                            </div>
+                                        
+                                    </div>
+                                    					                                                    
+                                    <div class="brand-item br">
+                                                                               
+                                            <div class="clientlogosbox">
+                                                <span>
+
+                                                    
+                                                    <a href="http://www.gksgujarat.org/" target="_blank">
+                                                        <img src="https://atmiyauni.ac.in/public/memberships/1676981508.GKS.png" style="height: 150px; width: 150px;border-radius:10px;">
+                                                    </a>
+                                                                                                    </span>
+                                                </br>
+                                                <p style="font-size:16px"><b>GKS</b></p>
+                                            </div>
+                                        
+                                    </div>
+                                    					                                            					                                                    
+                                    <div class="brand-item br">
+                                                                               
+                                            <div class="clientlogosbox">
+                                                <span>
+
+                                                    
+                                                    <a href="https://mic.gov.in/" target="_blank">
+                                                        <img src="https://atmiyauni.ac.in/public/memberships/1677136911.MHRD_2.png" style="height: 150px; width: 150px;border-radius:10px;">
+                                                    </a>
+                                                                                                    </span>
+                                                </br>
+                                                <p style="font-size:16px"><b>MHRD</b></p>
+                                            </div>
+                                        
+                                    </div>
+                                    					                                                    
+                                    <div class="brand-item br">
+                                                                               
+                                            <div class="clientlogosbox">
+                                                <span>
+
+                                                    
+                                                    <a href="https://indiancc.nic.in/" target="_blank">
+                                                        <img src="https://atmiyauni.ac.in/public/memberships/1676979975.NCC.png" style="height: 150px; width: 150px;border-radius:10px;">
+                                                    </a>
+                                                                                                    </span>
+                                                </br>
+                                                <p style="font-size:16px"><b>NCC</b></p>
+                                            </div>
+                                        
+                                    </div>
+                                    					                                                    
+                                    <div class="brand-item br">
+                                                                               
+                                            <div class="clientlogosbox">
+                                                <span>
+
+                                                    
+                                                    <a href="https://nss.gov.in/" target="_blank">
+                                                        <img src="https://atmiyauni.ac.in/public/memberships/1676980228.NSS.png" style="height: 150px; width: 150px;border-radius:10px;">
+                                                    </a>
+                                                                                                    </span>
+                                                </br>
+                                                <p style="font-size:16px"><b>NSS</b></p>
+                                            </div>
+                                        
+                                    </div>
+                                    					                                                                </div>
+                    </div>
+                    <div class="clientlogostitle" style="float: right;border-left: 2px solid #000;border-right:none;text-align:right;margin-top:3%">
+                        
+                        <h2 >Memberships</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+      <div class="clientlogoswrap" style="background:#C6A359;margin:20px 0;">
+                <div class="container">
+                    <div class="clientlogos">
+                        <div class="clientlogostitle" style="border-right:2px solid #000">
+                            <h2>National & <span>International Collaboration</span></h2>
+                        </div>
+    
+                        <div class="clientlogoslider">
+                            <div class="clientlogosplay">
+                                                                                                            <div class="brand-item br">
+                                                
+                                            <div class="clientlogosbox">
+                                                <span>
+                                                                                                            <a href="https://lsc-india.com/" target="_blank" >
+                                                            <img class="img" style="height:119px;margin-top:32px;width:230px;" src="https://atmiyauni.ac.in/public/recruiters/1677038430.LSC-removebg-preview.png" >
+                                                        </a>
+                                                                                                    </span>
+                                                
+                                            </div>
+                                        </div>
+                                       
+                                                                            <div class="brand-item br">
+                                                
+                                            <div class="clientlogosbox">
+                                                <span>
+                                                                                                            <a href="https://www.ngu.ac.in/" target="_blank" >
+                                                            <img class="img" style="height:119px;margin-top:32px;width:230px;" src="https://atmiyauni.ac.in/public/recruiters/1693563168.Hemchandracharya-North-Gujarat-University-Gujarat.jpg" >
+                                                        </a>
+                                                                                                    </span>
+                                                
+                                            </div>
+                                        </div>
+                                       
+                                                                            <div class="brand-item br">
+                                                
+                                            <div class="clientlogosbox">
+                                                <span>
+                                                                                                            <a href="https://www.spuvvn.edu/" target="_blank" >
+                                                            <img class="img" style="height:119px;margin-top:32px;width:230px;" src="https://atmiyauni.ac.in/public/recruiters/1676982039.Sardar Patel Uni.png" >
+                                                        </a>
+                                                                                                    </span>
+                                                
+                                            </div>
+                                        </div>
+                                       
+                                                                            <div class="brand-item br">
+                                                
+                                            <div class="clientlogosbox">
+                                                <span>
+                                                                                                            <a href="https://nagrikfoundation.org/" target="_blank" >
+                                                            <img class="img" style="height:119px;margin-top:32px;width:230px;" src="https://atmiyauni.ac.in/public/recruiters/1676982444.Nagrik_Foundation-removebg-preview.png" >
+                                                        </a>
+                                                                                                    </span>
+                                                
+                                            </div>
+                                        </div>
+                                       
+                                                                            <div class="brand-item br">
+                                                
+                                            <div class="clientlogosbox">
+                                                <span>
+                                                                                                            <a href="https://rfrfoundation.org/" target="_blank" >
+                                                            <img class="img" style="height:119px;margin-top:32px;width:230px;" src="https://atmiyauni.ac.in/public/recruiters/1677038607.Research For Resurgence Foundation.png" >
+                                                        </a>
+                                                                                                    </span>
+                                                
+                                            </div>
+                                        </div>
+                                       
+                                                                            <div class="brand-item br">
+                                                
+                                            <div class="clientlogosbox">
+                                                <span>
+                                                                                                            <a href="https://www.aicnifttea.org/" target="_blank" >
+                                                            <img class="img" style="height:119px;margin-top:32px;width:230px;" src="https://atmiyauni.ac.in/public/recruiters/1677040073.AIC_Nifta-removebg-preview.png" >
+                                                        </a>
+                                                                                                    </span>
+                                                
+                                            </div>
+                                        </div>
+                                       
+                                                                            <div class="brand-item br">
+                                                
+                                            <div class="clientlogosbox">
+                                                <span>
+                                                                                                            <a href="https://www.inflibnet.ac.in/" target="_blank" >
+                                                            <img class="img" style="height:119px;margin-top:32px;width:230px;" src="https://atmiyauni.ac.in/public/recruiters/1677037938.Inflibnet.png" >
+                                                        </a>
+                                                                                                    </span>
+                                                
+                                            </div>
+                                        </div>
+                                       
+                                                                            <div class="brand-item br">
+                                                
+                                            <div class="clientlogosbox">
+                                                <span>
+                                                                                                            <a href="https://www.ku.edu.np/" target="_blank" >
+                                                            <img class="img" style="height:119px;margin-top:32px;width:230px;" src="https://atmiyauni.ac.in/public/recruiters/1677039136.Kathmandu_University_Logo.svg.png" >
+                                                        </a>
+                                                                                                    </span>
+                                                
+                                            </div>
+                                        </div>
+                                       
+                                                                            <div class="brand-item br">
+                                                
+                                            <div class="clientlogosbox">
+                                                <span>
+                                                                                                            <a href="https://www.miyazaki-u.ac.jp/english/" target="_blank" >
+                                                            <img class="img" style="height:119px;margin-top:32px;width:230px;" src="https://atmiyauni.ac.in/public/recruiters/1677040198.Miyazaki.png" >
+                                                        </a>
+                                                                                                    </span>
+                                                
+                                            </div>
+                                        </div>
+                                       
+                                                                            <div class="brand-item br">
+                                                
+                                            <div class="clientlogosbox">
+                                                <span>
+                                                                                                            <a href="https://www.kgi.edu/" target="_blank" >
+                                                            <img class="img" style="height:119px;margin-top:32px;width:230px;" src="https://atmiyauni.ac.in/public/recruiters/1677041031.keck-graduate-institute-kgi-logo-vector.png" >
+                                                        </a>
+                                                                                                    </span>
+                                                
+                                            </div>
+                                        </div>
+                                       
+                                                                            <div class="brand-item br">
+                                                
+                                            <div class="clientlogosbox">
+                                                <span>
+                                                                                                            <a href="https://global.kduniv.ac.kr/global/index.php" target="_blank" >
+                                                            <img class="img" style="height:119px;margin-top:32px;width:230px;" src="https://atmiyauni.ac.in/public/recruiters/1677041128.kyungdong-university.png" >
+                                                        </a>
+                                                                                                    </span>
+                                                
+                                            </div>
+                                        </div>
+                                       
+                                                                            <div class="brand-item br">
+                                                
+                                            <div class="clientlogosbox">
+                                                <span>
+                                                                                                            <a href="https://kaushalyaskilluniversity.ac.in/" target="_blank" >
+                                                            <img class="img" style="height:119px;margin-top:32px;width:230px;" src="https://atmiyauni.ac.in/public/recruiters/1677038062.kaushalya.png" >
+                                                        </a>
+                                                                                                    </span>
+                                                
+                                            </div>
+                                        </div>
+                                       
+                                                                            <div class="brand-item br">
+                                                
+                                            <div class="clientlogosbox">
+                                                <span>
+                                                                                                            <a href="https://lincoln.edu.my/" target="_blank" >
+                                                            <img class="img" style="height:119px;margin-top:32px;width:230px;" src="https://atmiyauni.ac.in/public/recruiters/1677039965.Lincoln.png" >
+                                                        </a>
+                                                                                                    </span>
+                                                
+                                            </div>
+                                        </div>
+                                       
+                                                                                                </div>
+                        </div>
+    
+                    </div>
+                </div>
+            </div>
+
+        <div class="awardswrap">
+            <div class="container">
+                <div class="awardsbg">
+                    <div class="awardstitle">
+                        <span>Awards & Accolades</span>
+                        <h2>Awards & Accolades</h2>
+                    </div>
+
+                    <div class="awardslider">
+                        <div class="awardsplay">
+						    
+															  
+																						<div>
+								    									<div class="awardsbox">
+									   
+									   										  
+										  <img src="https://atmiyauni.ac.in/public/awards/1675335895.AU Award 3.jpg" style="height: 336px; width: 100%;">
+										   
+																				<div class="awardscontent" style="height:140px" >
+										<!--<div class="awardsdate">
+										    2nd February, 2023
+											</div>-->
+											<p style="font-size:16px"><b>Indian Education Network</b></p>
+											<p class="awardscontent02" style="font-size:14px" >BEST HIGHER VOCATIONAL /  PROFESSIONAL INSTITUTEfor Skill Devlopment - 2017</p>
+										</div>
+									</div>
+																	</div>
+																							<div>
+								    									<div class="awardsbox">
+									   
+									   										  
+										  <img src="https://atmiyauni.ac.in/public/awards/1675337121.AU Award 5.jpg" style="height: 336px; width: 100%;">
+										   
+																				<div class="awardscontent" style="height:140px" >
+										<!--<div class="awardsdate">
+										    2nd February, 2023
+											</div>-->
+											<p style="font-size:16px"><b>KNOWLEDGE PARTNER</b></p>
+											<p class="awardscontent02" style="font-size:14px" >Spoken Tutorials -  IIT BOMBAY Letter of Association</p>
+										</div>
+									</div>
+																	</div>
+																							<div>
+								    									<div class="awardsbox">
+									   
+									   										  
+										  <img src="https://atmiyauni.ac.in/public/awards/1675398550.AU Award 4.jpg" style="height: 336px; width: 100%;">
+										   
+																				<div class="awardscontent" style="height:140px" >
+										<!--<div class="awardsdate">
+										    3rd February, 2023
+											</div>-->
+											<p style="font-size:16px"><b>IIC</b></p>
+											<p class="awardscontent02" style="font-size:14px" >Institutions Innovation Council</p>
+										</div>
+									</div>
+																	</div>
+																							<div>
+								    									<div class="awardsbox">
+									   
+									   										  
+										  <img src="https://atmiyauni.ac.in/public/awards/1733555630.Kirloskar Green Initiatives Award.png" style="height: 336px; width: 100%;">
+										   
+																				<div class="awardscontent" style="height:140px" >
+										<!--<div class="awardsdate">
+										    7th December, 2024
+											</div>-->
+											<p style="font-size:16px"><b>Kirloskar Award 2024</b></p>
+											<p class="awardscontent02" style="font-size:14px" >Kirloskar Vasundhara Green Collage Clean Collage Award - 2024</p>
+										</div>
+									</div>
+																	</div>
+																							<div>
+								    									<div class="awardsbox">
+									   
+									   										  
+										  <img src="https://atmiyauni.ac.in/public/awards/1733637601.IMG_4219.png" style="height: 336px; width: 100%;">
+										   
+																				<div class="awardscontent" style="height:140px" >
+										<!--<div class="awardsdate">
+										    8th December, 2024
+											</div>-->
+											<p style="font-size:16px"><b>Dr APJ Abdul Kalam Inspiration Awards 2024</b></p>
+											<p class="awardscontent02" style="font-size:14px" >Best University for Excellence in Transformative Education</p>
+										</div>
+									</div>
+																	</div>
+																							<div>
+								    									<div class="awardsbox">
+									   
+									   										  
+										  <img src="https://atmiyauni.ac.in/public/awards/1733637691.DIGI 100.png" style="height: 336px; width: 100%;">
+										   
+																				<div class="awardscontent" style="height:140px" >
+										<!--<div class="awardsdate">
+										    8th December, 2024
+											</div>-->
+											<p style="font-size:16px"><b>Digii 100 Award</b></p>
+											<p class="awardscontent02" style="font-size:14px" >Recognizing Excellence in Digital Transformation</p>
+										</div>
+									</div>
+																	</div>
+																							<div>
+								    									<div class="awardsbox">
+									   
+									   										  
+										  <img src="https://atmiyauni.ac.in/public/awards/1733637861.IMG_4225.png" style="height: 336px; width: 100%;">
+										   
+																				<div class="awardscontent" style="height:140px" >
+										<!--<div class="awardsdate">
+										    8th December, 2024
+											</div>-->
+											<p style="font-size:16px"><b>Vedant Excellence Awards 2023</b></p>
+											<p class="awardscontent02" style="font-size:14px" >Awareness Building for Menstrual Hygiene Management and Self Defence</p>
+										</div>
+									</div>
+																	</div>
+																							<div>
+								    									<div class="awardsbox">
+									   
+									   										  
+										  <img src="https://atmiyauni.ac.in/public/awards/1733638088._IMG1523.png" style="height: 336px; width: 100%;">
+										   
+																				<div class="awardscontent" style="height:140px" >
+										<!--<div class="awardsdate">
+										    8th December, 2024
+											</div>-->
+											<p style="font-size:16px"><b>New Normal Education Leadership Summit &amp; Awards 2023</b></p>
+											<p class="awardscontent02" style="font-size:14px" >Impactful Social Initiative by an Institute Towards Humanity &amp; Nation Building 2023 </p>
+										</div>
+									</div>
+																	</div>
+																							<div>
+								    									<div class="awardsbox">
+									   
+									   										  
+										  <img src="https://atmiyauni.ac.in/public/awards/1733638170._IMG1527.png" style="height: 336px; width: 100%;">
+										   
+																				<div class="awardscontent" style="height:140px" >
+										<!--<div class="awardsdate">
+										    8th December, 2024
+											</div>-->
+											<p style="font-size:16px"><b>IDA Awards Education 2023</b></p>
+											<p class="awardscontent02" style="font-size:14px" >Inventive Learning &amp; Assessment Models&nbsp; - Higher Education</p>
+										</div>
+									</div>
+																	</div>
+																							<div>
+								    									<div class="awardsbox">
+									   
+									   										  
+										  <img src="https://atmiyauni.ac.in/public/awards/1733638264._IMG1556.png" style="height: 336px; width: 100%;">
+										   
+																				<div class="awardscontent" style="height:140px" >
+										<!--<div class="awardsdate">
+										    8th December, 2024
+											</div>-->
+											<p style="font-size:16px"><b>Academic Insights Education Excellence Awards 2023</b></p>
+											<p class="awardscontent02" style="font-size:14px" >University of the Year 2023 - Research Based Teaching Learning</p>
+										</div>
+									</div>
+																	</div>
+																							<div>
+								    									<div class="awardsbox">
+									   
+									   										  
+										  <img src="https://atmiyauni.ac.in/public/awards/1733638335._IMG1528.png" style="height: 336px; width: 100%;">
+										   
+																				<div class="awardscontent" style="height:140px" >
+										<!--<div class="awardsdate">
+										    1st January, 1970
+											</div>-->
+											<p style="font-size:16px"><b>India Sustainability Awards 2022</b></p>
+											<p class="awardscontent02" style="font-size:14px" >For Promoting Sustainability And Responsible Practices </p>
+										</div>
+									</div>
+																	</div>
+																							<div>
+								    									<div class="awardsbox">
+									   
+									   										  
+										  <img src="https://atmiyauni.ac.in/public/awards/1733638492._IMG1557.png" style="height: 336px; width: 100%;">
+										   
+																				<div class="awardscontent" style="height:140px" >
+										<!--<div class="awardsdate">
+										    8th December, 2024
+											</div>-->
+											<p style="font-size:16px"><b>Pride of Saurashtra</b></p>
+											<p class="awardscontent02" style="font-size:14px" >Leaders in Adopting the Aspiration of&nbsp; &ndash;&nbsp; National Education Policy 2020 in India</p>
+										</div>
+									</div>
+																	</div>
+																                        </div>
+                    </div>
+				</div>
+                </div>
+            </div>
+        </div>
+
+<footer>
+	<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>Atmiya Univercity</title>
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <!-- font-awesome -->
+    <link href="css/font-awesome.css" rel="stylesheet">
+    <!-- common-styles -->
+    <link href="css/styles.css" rel="stylesheet">
+    <link href="css/slick.css" rel="stylesheet" />
+    <!-- Fevicon -->
+    <link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
+
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+          <script src="js/html5shiv.min.js"></script>
+          <script src="js/respond.min.js"></script>
+        <![endif]-->
+</head>
+<body>
+<div class="footerwrapper">
+            <div class="footertop">
+                <div class="container ftcontainer">
+                    <div class="footercontent">
+							<div class="footerleft">
+                            <h4>Important Links</h4>
+                            
+																<ul>
+									<!--<ul>  <a href="https://atmiyauni.ac.in" target="_blank">Home</a></ul>-->
+										
+																				<ul>
+									   																					<a href="https://www.pci.nic.in/" target="_blank">PCI</a>
+																				
+									   									</ul>
+																				<ul>
+									   																					<a href="https://swayam.gov.in/" target="_blank">SWAYAM</a>
+																				
+									   									</ul>
+																				<ul>
+									   																					<a href="https://nptel.ac.in/" target="_blank">NPTEL</a>
+																				
+									   									</ul>
+																				<ul>
+									   																					<a href="http://www.barcouncilofindia.org/" target="_blank">BCI</a>
+																				
+									   									</ul>
+																				<ul>
+									   																					<a href="https://www.ugc.ac.in/" target="_blank">UGC</a>
+																				
+									   									</ul>
+																				<ul>
+									   																					<a href="https://www.aicte-india.org/" target="_blank">AICTE</a>
+																				
+									   									</ul>
+																				<ul>
+									   																			<a href="https://atmiyauni.ac.in/ict">ICT</a>
+								        										
+									   									</ul>
+																				<ul>
+									   																			<a href="https://atmiyauni.ac.in/nirf">NIRF</a>
+								        										
+									   									</ul>
+																				<ul>
+									   																					<a href="https://atmiyauni.ac.in/feedback_data" target="_blank">Feedback</a>
+																				
+									   									</ul>
+											                                                                       </ul>
+                                                        
+                        </div>
+						<div class="footerleft footerleft02">
+								<h4>Important Documents</h4>
+								 
+																		<ul>
+										<!--<ul>  <a href="https://atmiyauni.ac.in" target="_blank">Home</a></ul>-->
+											
+																						<ul>
+										   																					<a href="https://atmiyauni.ac.in/ugc-proforma">UGC Proforma</a>
+																						 										</ul>
+																						<ul>
+										   																					<a href="https://atmiyauni.ac.in/ugc-nad">UGC-NAD</a>
+																						 										</ul>
+																						<ul>
+										   																					<a href="https://atmiyauni.ac.in/ariia-2020-2021-report">ARIIA 2020-2021 Report</a>
+																						 										</ul>
+																						<ul>
+										   																					<a href="https://atmiyauni.ac.in/un-gcni">UN-GCNI</a>
+																						 										</ul>
+																						<ul>
+										   										</ul>
+																						<ul>
+										   																					<a href="https://atmiyauni.ac.in/rti">RTI</a>
+																						 										</ul>
+																						<ul>
+										   																					<a href="https://atmiyauni.ac.in/mandatory-disclosure">Mandatory Disclosure</a>
+																						 										</ul>
+																						<ul>
+										   																					<a href="https://atmiyauni.ac.in/public-disclosure">Public Disclosure</a>
+																						 										</ul>
+																						<ul>
+										   																					<a href="https://atmiyauni.ac.in/patent">Patent</a>
+																						 										</ul>
+																						<ul>
+										   																					<a href="https://atmiyauni.ac.in/gujarat-govt-scholarship">Gujarat Govt Scholarship</a>
+																						 										</ul>
+																						   									</ul>
+								 								
+							</div>
+							<div class="footerleft">
+								<h4>Committees & Cells</h4>
+																	<ul>
+										<!--<ul>  <a href="https://atmiyauni.ac.in" target="_blank">Home</a></ul>-->
+											
+																						<ul>
+										    																							<a href="/public/file/1736245504.ICC.pdf" target="_blank" download="ICC" >ICC</a>
+																						 										</ul>
+																						<ul>
+										    																							<a href="/public/file/1736245494.Equal Opportunity.pdf" target="_blank" download="Equal Opportunity" >Equal Opportunity</a>
+																						 										</ul>
+																						<ul>
+										    																							<a href="/public/file/1736245470.Anti Ragging.pdf" target="_blank" download="Anti Ragging" >Anti Ragging</a>
+																						 										</ul>
+																						<ul>
+										    																							<a href="/public/file/1736245528.Student Grievance Redressal.pdf" target="_blank" download="Student Grievance Redressal" >Student Grievance Redressal</a>
+																						 										</ul>
+																						<ul>
+										    																							<a href="/public/file/1736245458.Anti Discrimination.pdf" target="_blank" download="Anti discrimination" >Anti discrimination</a>
+																						 										</ul>
+																						<ul>
+										    																							<a href="/public/file/1736245482.Discipline.pdf" target="_blank" download="Discipline" >Discipline</a>
+																						 										</ul>
+																						<ul>
+										    																							<a href="/public/file/1736245518.SC - ST Committee.pdf" target="_blank" download="SC/ST committee" >SC/ST committee</a>
+																						 										</ul>
+																						   									</ul>
+								 							</div>
+							
+							
+							
+                        
+                        <div class="footerright">
+                            
+                            
+                            <p style="width:66%">Atmiya University                                                                                                      
+&quot;Yogidham Gurukul&quot;                                                                                                  
+Kalawad Road, Rajkot-360005                                                                     
+Gujarat, India</p>
+							
+							<div class="footercontact"><span>E-MAIL :</span> <a href="mailto:admin@atmiyauni.ac.in"> admin@atmiyauni.ac.in </a></div>
+							
+							<div class="footercontact"><span>TELEPHONE NO :</span> <a href="tel:0281-2563445"> +91-0281-2563445</a></div>
+							
+							
+							<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3691.882417318788!2d70.7677601!3d22.2824435!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3959cbbfcdeb3e33%3A0x11a782bf6775a71d!2sAtmiya%20University!5e0!3m2!1sen!2sin!4v1733562800141!5m2!1sen!2sin" width="300" height="150" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+							 <br>  <br> 
+                        </div>
+						
+						<div class="footerright">
+							<h4 style="color: #CBA85E">Assessment & Accreditation</h4>
+							<p></p>
+							<div style="margin-left: 40px">
+								<ul class="footercontact2">
+									<a href="#" style="color: white">NAAC</a>
+								<!--	<a href="https://naac.atmiyauni.ac.in/" style="color: white">NAAC</a> -->
+								</ul>
+							</div>
+						</div>
+						
+						
+                    </div>
+                </div>
+            </div>
+            <div class="footerbottom">
+                <div class="container" style="width: fit-content;">
+                    <div class="copyrights">&copy; Copyright 2025 <span><a href="https://atmiyauni.ac.in">Atmiya University</a>.</span> All rights reserved | <a href="/sitemap" style="color:#3d3c3c"> Site Map</a></div>
+                    <div class="poweredby">
+                        <span>Powered by</span><a href="http://infinityinfoway.com/" target="_blank"><img src="https://atmiyauni.ac.in/images/iconiipl.png" alt="IIPL"></a>
+                    </div> 
+                    <div class="footersocialwrap" style="margin-left:200px">
+                        <span>Follow Us On :</span>
+                        <div class="footersocial">
+                            <a href="https://www.facebook.com/atmiyauniversity" target="_blank"><i class="fa fa-facebook"></i></a>
+                            <a href="https://instagram.com/atmiya_university?igshid=MzRlODBiNWFlZA==" target="_blank"><i class="fa fa-instagram"></i></a>
+                            <a href="https://www.linkedin.com/company/atmiya-university/?originalSubdomain=in" target="_blank"><i class="fa fa-linkedin"></i></a>
+                            <a href="https://twitter.com/AtmiyaUni" target="_blank"><i class="fa fa-twitter"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+</body>
+</html>  
+</footer>
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
+<script src="https://atmiyauni.ac.in/frontTheme/js/jquery.min.js"></script> 
+ <script src="https://atmiyauni.ac.in/frontTheme/js/popper.min.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed --> 
+ 
+
+<script src="https://atmiyauni.ac.in/frontTheme/js/bootstrap.min.js"></script>
+<script src="https://atmiyauni.ac.in/frontTheme/js/bootstrap1.min.js"></script>
+<script src="https://atmiyauni.ac.in/frontTheme/js/parallax.min.js"></script>
+<script src="https://atmiyauni.ac.in/frontTheme/js/parallax.js"></script>
+<script src="https://atmiyauni.ac.in/frontTheme/js/slick.min.js"></script>
+<script src="https://atmiyauni.ac.in/frontTheme/js/custom.js"></script>
+<script src="https://atmiyauni.ac.in/frontTheme/js/parallax.min.js"></script>
+<script src="https://atmiyauni.ac.in/frontTheme/js/proud.js"></script>
+<script src="https://atmiyauni.ac.in/frontTheme/js/initi.js"></script>
+
+<script src="https://atmiyauni.ac.in/frontTheme/js/owl.carousel.js"></script>
+
+
+<script>
+$(document).ready(function(){
+    $('body').on('click', '.arrow-iocn a', function() {
+    	$(".scoli-iocn-bg ul").toggleClass();
+	});
+});
+</script>
+ <script src="https://owlcarousel2.github.io/OwlCarousel2/assets/vendors/jquery.min.js"   ></script>
+ <script src="https://owlcarousel2.github.io/OwlCarousel2/assets/owlcarousel/owl.carousel.js"   ></script>
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js" integrity="sha512-XtmMtDEcNz2j7ekrtHvOVR4iwwaD6o/FUJe6+Zq+HgcCsk3kj4uSQQR8weQ2QVj1o0Pk6PwYLohm206ZzNfubg==" crossorigin="anonymous"   ></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.js" integrity="sha512-WNZwVebQjhSxEzwbettGuQgWxbpYdoLf7mH+25A7sfQbbxKeS5SQ9QBf97zOY4nOlwtksgDA/czSTmfj4DUEiQ==" crossorigin="anonymous"   ></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js" integrity="sha512-0QbL0ph8Tc8g5bLhfVzSqxe9GERORsKhIn1IrpxDAgUsbBGz/V7iSav2zzW325XGd1OMLdL4UiqRJj702IeqnQ==" crossorigin="anonymous"  ></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.compatibility.js" integrity="sha512-+ol0Tck+iZU3Wj7lJSB9/7iVlEwvVbURRJTUQ9QmjVFF8tnrltnwuafT/eu1e4GTOgbCri6YLJkvUS8YIr4U2w==" crossorigin="anonymous"   ></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.compatibility.min.js" integrity="sha512-sZ2H+EQd+WBqD/p1lsiqdLI6IldPoh0aWEL6gGyXVboGOzfMlUWT57pdGk9iVzO0qIWTTs7yRXQhgAncsjdbWA==" crossorigin="anonymous"   ></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.js" integrity="sha512-xq+0+dRhI6SZOh+lDnMJEju2p2YPINflJLcYrRAsIMaXnJi6/V3lppCMCYsB2MLeF2E93r+fVo0MioY90pNzpw==" crossorigin="anonymous"   ></script>
+<script src="https://atmiyauni.ac.in/frontTheme/js/custom.js  " ></script>
+<script src="https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js"   ></script>
+<script type="text/javascript "   >
+$('.owl-carousel').owlCarousel({
+	autoplay:true,
+    loop:true,
+    margin:0,
+    nav:true,
+  dots:true,
+    responsive:{
+        0:{
+            items:1
+        },
+        600:{
+            items:1
+        },
+        1000:{
+            items:1
+        }
+    }
+})
+
+
+
+
+$(document).ready(function(){
+var cookie =  Cookies.get('aau-user-disclosure');
+console.log(cookie);
+/*if(cookie != null){
+$("#myModal").modal('show');
+}*/
+//$("#myModal").modal('show');
+});
+$('.farmer').click(function(e){
+e.preventDefault();
+var link = $(this).data("link");
+$('#agreeFarmer').data('link',link);
+$("#myModal2").modal('show');
+});
+$('#agree').click(function(){
+var ischecked = 1;
+var type = 1;
+$.ajax({
+url: 'https://atmiyauni.ac.in/user-disclosure-detail/store',
+type: "post",
+data: {'is_agree': ischecked, 'type': type, '_token':"FPnG1Z34AbU8Zwczi6FTzfWPGnWLRgLQCHf2sWe8"},
+dataType: 'JSON',
+success: function (data) {
+Cookies.set('aau-user-disclosure', 'setCookie', { expires: 365 });
+console.log(data);
+}
+});
+});
+$('#agreeFarmer').click(function(){
+var link = $(this).data("link");
+var ischecked = 1;
+var type = 2;
+$.ajax({
+url: 'https://atmiyauni.ac.in/user-disclosure-detail/store',
+type: "post",
+data: {'is_agree': ischecked, 'type': type, '_token':"FPnG1Z34AbU8Zwczi6FTzfWPGnWLRgLQCHf2sWe8"},
+dataType: 'JSON',
+success: function (data) {
+redirectURL = link;
+window.location.href = redirectURL;
+console.log(data);
+}
+});
+});
+
+
+
+
+
+// slider event
+  $('.event-slider').slick({
+  slidesToShow: 4,
+  slidesToScroll: 1,
+  autoplay: true,
+  dots: false,
+  autoplaySpeed: 2000,
+  responsive: [
+  {
+      breakpoint: 1319,
+      settings: {
+        slidesToShow: 1,
+        slidesToScroll: 3,
+        infinite: true,
+        dots: false
+      }
+    },
+    {
+      breakpoint: 1024,
+      settings: {
+        slidesToShow:1,
+        slidesToScroll: 3,
+        infinite: true,
+        dots: false
+      }
+    },
+    {
+      breakpoint: 600,
+      settings: {
+        slidesToShow: 1,
+        slidesToScroll: 2
+      }
+    },
+    {
+      breakpoint: 480,
+      settings: {
+        slidesToShow: 1,
+        slidesToScroll: 1
+      }
+    } 
+  ]
+});
+</script>
+
+		<script src="js/jquery.min.js"   ></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    
+    <script src="js/slick.min.js"   ></script>
+    
+    <script>
+
+	
+	
+	
+	
+	
+	
+        $(document).ready(function () {
+            $('.latestupdatesplay').slick({
+                slidesToShow: 3,
+                slidesToScroll: 1,
+                margin: '1px',
+                autoplay: true,
+                dots: true,
+                autoplaySpeed: 2600,
+                responsive: [
+                    {
+                        breakpoint: 1500,
+                        settings: {
+                            slidesToShow: 2,
+                        }
+                    },
+                    {
+                        breakpoint: 1025,
+                        settings: {
+                            slidesToShow: 2,
+                        }
+                    },
+                    {
+                        breakpoint: 640,
+                        settings: {
+                            slidesToShow: 1,
+                        }
+                    }
+                ]
+            });
+
+            $('.clientlogosplay').slick({
+                slidesToShow: 3,
+                slidesToScroll: 1,
+                margin: '1px',
+                autoplay: true,
+                dots: false,
+                autoplaySpeed: 2600,
+                responsive: [
+                    {
+                        breakpoint: 1500,
+                        settings: {
+                            slidesToShow: 5,
+                        }
+                    },
+                    {
+                        breakpoint: 1025,
+                        settings: {
+                            slidesToShow: 4,
+                        }
+                    },
+                    {
+                        breakpoint: 640,
+                        settings: {
+                            slidesToShow: 3,
+                        }
+                    }
+                    ,
+                    {
+                        breakpoint: 480,
+                        settings: {
+                            slidesToShow: 2,
+                        }
+                    }
+                    ,
+                    {
+                        breakpoint: 360,
+                        settings: {
+                            slidesToShow: 1,
+                        }
+                    }
+                ]
+            });
+			
+			 $('.clientlogosplay1').slick({
+                slidesToShow: 5,
+                slidesToScroll: 1,
+                margin: '1px',
+                autoplay: true,
+                dots: false,
+                autoplaySpeed: 2600,
+                responsive: [
+                    {
+                        breakpoint: 1500,
+                        settings: {
+                            slidesToShow: 5,
+                        }
+                    },
+                    {
+                        breakpoint: 1025,
+                        settings: {
+                            slidesToShow: 4,
+                        }
+                    },
+                    {
+                        breakpoint: 640,
+                        settings: {
+                            slidesToShow: 3,
+                        }
+                    }
+                    ,
+                    {
+                        breakpoint: 480,
+                        settings: {
+                            slidesToShow: 2,
+                        }
+                    }
+                    ,
+                    {
+                        breakpoint: 360,
+                        settings: {
+                            slidesToShow: 1,
+                        }
+                    }
+                ]
+            });
+
+            $('.membershiplogosplay').slick({
+                slidesToShow: 3,
+                slidesToScroll: 1,
+                margin: '1px',
+                autoplay: true,
+                dots: false,
+                autoplaySpeed: 2000,
+                responsive: [
+                    {
+                        breakpoint: 868,
+                        settings: {
+                            slidesToShow: 2,
+                        }
+                    },
+                    {
+                        breakpoint: 640,
+                        settings: {
+                            slidesToShow: 1,
+                        }
+                    }
+                ]
+            });
+
+            $('.awardsplay').slick({
+                slidesToShow: 3,
+                slidesToScroll: 1,
+                margin: '1px',
+                autoplay: true,
+                dots: false,
+                autoplaySpeed: 2600,
+                responsive: [
+                    {
+                        breakpoint: 1500,
+                        settings: {
+                            slidesToShow: 3,
+                        }
+                    },
+                    {
+                        breakpoint: 740,
+                        settings: {
+                            slidesToShow: 1,
+                        }
+                    }
+                ]
+            });
+
+            // digit counters
+            var a = 0;
+            $(window).scroll(function () {
+                var oTop = $('.facilitiesbox').offset().top - window.innerHeight;
+                if (a == 0 && $(window).scrollTop() > oTop) {
+                    $('.count').each(function () {
+                        var $this = $(this),
+                            countTo = $this.attr('data-count');
+                        $({
+                            countNum: $this.text()
+                        }).animate({
+                            countNum: countTo
+                        }, {
+                            duration: 5000,
+                            easing: 'swing',
+                            step: function () {
+                                $this.text(Math.floor(this.countNum));
+                            },
+                            complete: function () {
+                                $this.text(this.countNum);
+                            }
+                        });
+                    });
+                    a = 1;
+                }
+            });
+
+
+        });
+    </script>
+	<script src="js/particles.min.js"  ></script>
+	<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+	
+    <script>
+      /*   particlesJS("particles-js01", { "particles": { "number": { "value": 80, "density": { "enable": true, "value_area": 800 } }, "color": { "value": "#ffffff" }, "shape": { "type": "circle", "stroke": { "width": 0, "color": "#000000" }, "polygon": { "nb_sides": 5 }, "image": { "src": "img/github.svg", "width": 100, "height": 100 } }, "opacity": { "value": 0.5, "random": false, "anim": { "enable": false, "speed": 1, "opacity_min": 0.1, "sync": false } }, "size": { "value": 3, "random": true, "anim": { "enable": false, "speed": 40, "size_min": 0.1, "sync": false } }, "line_linked": { "enable": true, "distance": 150, "color": "#ffffff", "opacity": 0.4, "width": 2 }, "move": { "enable": true, "speed": 6, "direction": "none", "random": false, "straight": false, "out_mode": "out", "bounce": false, "attract": { "enable": false, "rotateX": 600, "rotateY": 1200 } } }, "interactivity": { "detect_on": "canvas", "events": { "onhover": { "enable": true, "mode": "repulse" }, "onclick": { "enable": true, "mode": "push" }, "resize": true }, "modes": { "grab": { "distance": 400, "line_linked": { "opacity": 1 } }, "bubble": { "distance": 400, "size": 40, "duration": 2, "opacity": 8, "speed": 3 }, "repulse": { "distance": 200, "duration": 0.4 }, "push": { "particles_nb": 4 }, "remove": { "particles_nb": 2 } } }, "retina_detect": true }); var count_particles, stats, update; stats = new Stats; stats.setMode(0); stats.domElement.style.position = 'absolute'; stats.domElement.style.left = '0px'; stats.domElement.style.top = '0px'; document.body.appendChild(stats.domElement); count_particles = document.querySelector('.js-count-particles'); update = function () { stats.begin(); stats.end(); if (window.pJSDom[0].pJS.particles && window.pJSDom[0].pJS.particles.array) { count_particles.innerText = window.pJSDom[0].pJS.particles.array.length; } requestAnimationFrame(update); }; requestAnimationFrame(update);; */
+    </script>
+	<script>
+		let slideIndex = [1,1];
+		let slideId = ["mySlides1", "mySlides2"]
+		showSlides(1, 0);
+		showSlides(1, 1);
+
+		function plusSlides(n, no) {
+		  showSlides(slideIndex[no] += n, no);
+		}
+
+		function showSlides(n, no) {
+		  let i;
+		  let x = document.getElementsByClassName(slideId[no]);
+		  if (n > x.length) {slideIndex[no] = 1}    
+		  if (n < 1) {slideIndex[no] = x.length}
+		  for (i = 0; i < x.length; i++) {
+			 x[i].style.display = "none";  
+		  }
+		  //x[slideIndex[no]-1].style.display = "block";  
+		}
+	</script>
+	<script>
+		var index = 0;
+		var slides = document.querySelectorAll(".slides");
+		var dot = document.querySelectorAll(".dot");
+
+	/*	function changeSlide(){
+
+		  if(index<0){
+			index = slides.length-1;
+		  }
+		  
+		  if(index>slides.length-1){
+			index = 0;
+		  }
+		  
+		  for(let i=0;i<slides.length;i++){
+			slides[i].style.display = "none";
+			dot[i].classList.remove("active");
+		  }
+		  
+		  slides[index].style.display= "block";
+		  dot[index].classList.add("active");
+		  
+		  index++;
+		  
+		  setTimeout(changeSlide,2000);
+		  
+		} */
+		
+		
+		 function changeSlide() {
+            if (slides.length === 0 || dot.length === 0) {
+                console.error("No slides or dots found.");
+                return;
+            }
+
+            for (let i = 0; i < slides.length; i++) {
+                slides[i].style.display = "none";
+                if (dot[i]) {
+                    dot[i].classList.remove("active");
+                }
+            }
+                slides[index].style.display = "block";
+                if (dot[index]) {
+                    dot[index].classList.add("active");
+                }
+
+                index = (index + 1) % slides.length;
+
+                setTimeout(changeSlide, 2000);
+        }
+
+
+		changeSlide();
+	</script>
+	<script>
+
+    let name = document.getElementById('s_name');
+    let email = document.getElementById('s_email');
+    let programme = document.getElementById('s_programme');
+    let contact = document.getElementById('s_contact');
+    let state = document.getElementById('s_state');
+    let city = document.getElementById('s_city');
+    let enquiry_query = document.getElementById('s_enquiry_query');
+
+
+    let name_error = document.getElementById('name');
+    let email_error = document.getElementById('email');
+    let contact_error = document.getElementById('contact');
+    let programme_error = document.getElementById('programme');
+    let state_error = document.getElementById('state');
+    let city_error = document.getElementById('city');
+    let enquiry_query_error = document.getElementById('enquiry_query');
+
+
+    function openForm() {
+        reset();
+        errorReset();
+        document.getElementById("myForm").style.display = "block";
+    }
+    
+    function closeForm() {
+        reset();
+        document.getElementById("myForm").style.display = "none";
+    }
+
+
+    function FromSubmit()
+    {
+        errorReset();
+
+        axios.post('admission_from',{
+            'name' : name.value,
+            'email'  : email.value,
+            'contact'  : contact.value,
+            'programme'  : programme.value,
+            'state'  : state.value,
+            'city'  : city.value,
+            'enquiry_query'  : enquiry_query.value,
+        })
+        .then(function (response) {
+            closeForm();
+        })
+        .catch(function (error) {
+            error = error.response.data.errors;
+            Object.keys(error).forEach(function(key) {
+                document.getElementById(key).innerHTML = error[key];
+            });
+        })
+               
+    }
+
+    function reset()
+    {
+        name.value = "";
+        email.value = "";
+        contact.value = "";
+        programme.value = "";
+        state.value = "";
+        city.value = "";
+        enquiry_query.value = ""; 
+    }
+
+    function errorReset()
+    {
+        name_error.innerHTML = "";
+        email_error.innerHTML = "";
+        contact_error.innerHTML = "";
+        programme_error.innerHTML = "";
+        state_error.innerHTML = "";
+        city_error.innerHTML = "";
+        enquiry_query_error.innerHTML = "";
+    }
+
+
+ </script>
+<script>
+        $(document).ready(function () {
+            var sideslider = $('[data-toggle=collapse-side]');
+            var sel = sideslider.attr('data-target');
+            var sel2 = sideslider.attr('data-target-2');
+            sideslider.click(function (event) {
+                $(sel).toggleClass('in');
+                $(sel2).toggleClass('out');
+            });
+
+            $('.fixedbtn').on('click', function () {
+                $('.fixedbtn').toggleClass('topfixedicon');
+            });
+
+        });
+    </script>
+	<script type="text/javascript">
+        jQuery(document).ready(function ($) {
+            var alterClass = function () {
+                var ww = document.body.clientWidth;
+                if (ww < 767) {
+                    $('.headermenu .dropdown').removeClass('showonhover');
+                    $('.headermenu .dropdown-submenu > a i').removeClass('fa-caret-right').addClass('fa-caret-down');
+                } else if (ww >= 768) {
+                    $('.headermenu .dropdown').addClass('showonhover');
+                    $('.headermenu .dropdown-submenu > a i').removeClass('fa-caret-down').addClass('fa-caret-right');
+                };
+            };
+            $(window).resize(function () {
+                alterClass();
+            });
+            //Fire it when the page first loads:
+            alterClass();
+        });
+    </script>
+
+    <script>
+        $(document).ready(function () {
+            $('.headermenu .dropdown-submenu > a').on("click", function (e) {
+                $(this).next('ul').toggle();
+                e.stopPropagation();
+                e.preventDefault();
+            });
+        });
+    </script>
+	
+</body>
+</html>
