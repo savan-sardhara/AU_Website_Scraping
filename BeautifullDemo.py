@@ -13,6 +13,7 @@ links = soup.find_all('a', href=True)
 for link in links:
     print(link['href'])
 
+
 # Add a new paragraph to the body
 new_tag = soup.new_tag('p')
 new_tag.string = 'This is a new paragraph.'
